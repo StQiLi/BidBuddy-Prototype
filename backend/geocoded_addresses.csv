@@ -1,0 +1,792 @@
+address,price,details,Price,Bedrooms,Bathrooms,Latitude,Longitude
+"2550 Lawrence Ave #1402, Toronto, ON M1P 4Z3","C$539,000",2 bds2 ba- Condo for sale,539000,2,2,43.7516958,-79.26639850000001
+"17 Anndale Dr #2310, Toronto, ON M2N 2W7","C$589,000",1 bd1 ba- Condo for sale,589000,1,1,43.760124,-79.40765379999999
+"6 Muskox Dr, Toronto, ON M1B 6E9","C$1,149,900",4 bds4 ba- House for sale,1149900,4,4,43.81026869999999,-79.18442530000002
+"234 A Albion Rd #304, Toronto, ON M9W 6A5","C$499,900",3 bds2 ba- Condo for sale,499900,3,2,43.7211803,-79.5443161
+"106 Dovercourt Rd #411, Toronto, ON M6J 0G4","C$738,000",2 bds2 ba- Condo for sale,738000,2,2,43.6432808,-79.422524
+"96 Dunraven Dr, Toronto, ON M6M 1H3","C$1,050,000",3 bds2 ba- House for sale,1050000,3,2,43.6852496,-79.4675918
+"25 Ritchie Ave #111, Toronto, ON M6R 2J6","C$1,090,000",2 bds2 ba- Condo for sale,1090000,2,2,43.6523516,-79.4500271
+"45 Cedarcroft Blvd #3, Toronto, ON M2R 3Y2","C$599,000",3 bds3 ba- Townhouse for sale,599000,3,3,43.7828726,-79.4497039
+"18 Denver Cres, Toronto, ON M2J 1G7","C$2,490,000",5 bds4 ba- House for sale,2490000,5,4,43.77193459999999,-79.35687109999999
+"365 Church St #612, Toronto, ON M5B 0B5","C$959,000",3 bds2 ba- Condo for sale,959000,3,2,43.6610459,-79.3787591
+"279 Lappin Ave, Toronto, ON M6H 1Y9","C$919,999",2 bds2 ba- Townhouse for sale,919999,2,2,43.6645261,-79.4465967
+"1 A Palace Pier Ct #2706, Toronto, ON M8V 3W9","C$1,599,900",2 bds3 ba- Condo for sale,1599900,2,3,43.6316252,-79.47271789999999
+"25 Fontenay Ct #808, Toronto, ON M9A 0C4","C$849,800",2 bds2 ba- Condo for sale,849800,2,2,43.682477,-79.5111077
+"50 Shirley St, Toronto, ON M6K 1T1","C$1,550,000",4 bds3 ba- House for sale,1550000,4,3,43.6480804,-79.43832479999999
+"83 Montressor Dr, Toronto, ON M2P 1Z3","C$2,480,000",4 bds5 ba- House for sale,2480000,4,5,43.7592502,-79.3937588
+"9 Burnhamthorpe Cres #316, Toronto, ON M9A 0A6","C$499,900",1 bd1 ba- Condo for sale,499900,1,1,43.6499861,-79.5291506
+"10 Queens Quay W #1204, Toronto, ON M5J 2R9","C$999,990",2 bds2 ba- Condo for sale,999990,2,2,43.6418407,-79.3757998
+"599 Sammon Ave, Toronto, ON M4C 2E1","C$989,000",3 bds3 ba- House for sale,989000,3,3,43.688997,-79.323995
+"24 Fieldway Rd UNIT 19, Toronto, ON M8Z 0E3","C$579,000",1 bd1 ba694 sqft- Townhouse for sale,579000,1,1,43.6420776,-79.52794759999999
+"38 Ascot Ave, Toronto, ON M6E 1E7","C$1,999,900",4 bds5 ba- House for sale,1999900,4,5,43.67996429999999,-79.445567
+"585 Bloor St E #1603, Toronto, ON M4X 1N5","C$880,000",2 bds2 ba- Condo for sale,880000,2,2,43.6717536,-79.3714449
+"665 Kennedy Rd #510, Toronto, ON M1K 5E2","C$419,900",3 bds2 ba- Condo for sale,419900,3,2,43.7260386,-79.2649208
+"3231 Eglinton Ave #507, Toronto, ON M1J 3N5","C$399,900",1 bd1 ba- Condo for sale,399900,1,1,43.7436905,-79.21306779999999
+"34 A Raven Rd, Toronto, ON M6L 2A7","C$1,788,000",4 bds5 ba- House for sale,1788000,4,5,43.7144051,-79.5038761
+"55 Bremner Blvd #2311, Toronto, ON M5J 0A6","C$629,000",1 bd1 ba- Condo for sale,629000,1,1,43.642884,-79.3804767
+"20 Joe Shuster Way #622, Toronto, ON M6K 0A3","C$599,900",2 bds2 ba- Condo for sale,599900,2,2,43.640128,-79.4243082
+"104 Holmes Ave, Toronto, ON M2N 4M4","C$2,050,000",4 bds4 ba- House for sale,2050000,4,4,43.7795394,-79.4075774
+"30 Canterbury Pl #1210, Toronto, ON M2N 0B9","C$549,000",1 bd2 ba- Condo for sale,549000,1,2,43.7732072,-79.4154398
+"55 Regent Park Blvd #512, Toronto, ON M5A 0C2","C$599,000",1 bd1 ba- Condo for sale,599000,1,1,43.6596211,-79.36095759999999
+"100 Silver Birch Ave, Toronto, ON M4E 3L4","C$1,745,000",4 bds3 ba- House for sale,1745000,4,3,43.6737754,-79.2858461
+"60 Colborne St #1905, Toronto, ON M5E 0B7","C$499,000",Studio1 ba- Condo for sale,499000,1,1,43.649504,-79.3744937
+"140 Simcoe St #1220, Toronto, ON M5H 4E9","C$590,000",1 bd1 ba- Condo for sale,590000,1,1,43.64960000000001,-79.38716769999999
+"183 Beech Ave, Toronto, ON M4E 3H8","C$1,660,000",3 bds3 ba- House for sale,1660000,3,3,43.67552999999999,-79.2885
+"44 Fairfield Rd, Toronto, ON M4P 1T1","C$1,649,000",3 bds2 ba- House for sale,1649000,3,2,43.711532,-79.38592709999999
+"39 Transwell Ave, Toronto, ON M2R 2J9","C$1,350,000",3 bds2 ba- House for sale,1350000,3,2,43.780305,-79.4429768
+"31 Felan Cres, Toronto, ON M9V 3A2","C$798,800",4 bds2 ba- House for sale,798800,4,2,43.7365453,-79.57676169999999
+"9 Danjohn Cres, Toronto, ON M1V 3N2","C$799,000",3 bds2 ba- House for sale,799000,3,2,43.8114788,-79.2807132
+"478 King St W #608, Toronto, ON M5V 0A8","C$899,000",2 bds2 ba- Condo for sale,899000,2,2,43.6454454,-79.3960975
+"170 Chiltern Hill Rd UNIT 410, Toronto, ON M6C 0A9","C$599,000",1 bd1 ba- Condo for sale,599000,1,1,43.7002599,-79.4278485
+"215 Wynford Dr #701, Toronto, ON M3C 3P5","C$820,000",2 bds3 ba- Condo for sale,820000,2,3,43.7234822,-79.3272283
+"11 Charlotte St #410, Toronto, ON M5V 0M6","C$548,000",1 bd1 ba- Condo for sale,548000,1,1,43.6464437,-79.39358419999999
+"203 Caledonia Rd, Toronto, ON M6E 4S9","C$799,000",3 bds2 ba- House for sale,799000,3,2,43.6819446,-79.45721449999999
+"50 Forest Manor Rd #1111, Toronto, ON M2J 0E3","C$599,000",1 bd2 ba- Condo for sale,599000,1,2,43.7727169,-79.34540899999999
+"68 Roseglen Cres, Toronto, ON M3N 1G6","C$988,000",4 bds3 ba- House for sale,988000,4,3,43.7457998,-79.5191684
+"9 Mabelle Ave #2023, Toronto, ON M9A 0E1","C$749,900",3 bds2 ba- Condo for sale,749900,3,2,43.64613,-79.5260433
+"1 King St W #821, Toronto, ON M5H 1A1","C$349,000",Studio1 ba- Condo for sale,349000,1,1,43.6489445,-79.37814019999999
+"5 A York Ave, Toronto, ON M6N 2V1","C$840,000",3 bds2 ba- House for sale,840000,3,2,43.6855015,-79.4877554
+"16 Brookers Ln #2801, Toronto, ON M8V 0A5","C$499,000",1 bd1 ba- Condo for sale,499000,1,1,43.6269107,-79.4786185
+"11 Superior Ave #611, Toronto, ON M8V 0A7","C$529,999",1 bd1 ba- Condo for sale,529999,1,1,43.61522919999999,-79.4889486
+"19 Singer Ct #519, Toronto, ON M2K 0B2","C$599,000",2 bds2 ba- Condo for sale,599000,2,2,43.7691693,-79.36997649999999
+"1 Rowntree Rd, Toronto, ON M9V 5G7","C$569,000","3 bds2 ba1,806 sqft- Condo for sale",569000,3,2,43.7512238,-79.5830043
+"564 Dufferin St, Toronto, ON M6K 2A9","C$1,399,000",9 bds2 ba- House for sale,1399000,9,2,43.6479866,-79.4310409
+"35 Hollywood Ave #511, Toronto, ON M2N 0A9","C$639,900",2 bds2 ba- Condo for sale,639900,2,2,43.7656295,-79.410051
+"50 Forest Manor Rd #811, Toronto, ON M2J 0E3","C$599,000",1 bd2 ba- Condo for sale,599000,1,2,43.7727169,-79.34540899999999
+"521 Browns Line, Toronto, ON M8W 3V1","C$1,649,000",5 bds3 ba- House for sale,1649000,5,3,43.6037004,-79.5457696
+"190 Manitoba St #505, Toronto, ON M8Y 3Y8","C$678,000",2 bds2 ba- Condo for sale,678000,2,2,43.6241473,-79.49191909999999
+"62 Golfview Ave, Toronto, ON M4E 2K2","C$989,000",2 bds2 ba- House for sale,989000,2,2,43.67785,-79.30734
+"25 London Green Ct #25, Toronto, ON M3N 1K3","C$749,999",4 bds2 ba- Townhouse for sale,749999,4,2,43.7527793,-79.51146039999999
+"25 Town Centre Ct UNIT 1903, Toronto, ON M1P 0B4","C$524,000",1 bd1 ba- Condo for sale,524000,1,1,43.773363,-79.25472169999999
+"13 Brentwood Ave, Toronto, ON M2N 2L6","C$3,250,000",4 bds5 ba- House for sale,3250000,4,5,43.7591632,-79.4258516
+"1 Rean Dr #812, Toronto, ON M2K 3C1","C$649,000",2 bds2 ba- Condo for sale,649000,2,2,43.76515029999999,-79.3834741
+"18 Spring Garden Ave #3509, Toronto, ON M2N 7M2","C$459,900",1 bd1 ba- Condo for sale,459900,1,1,43.7648801,-79.41045439999999
+"3668 Saint Clair Ave E, Toronto, ON M1M 1T2","C$798,000",4 bds4 ba- Townhouse for sale,798000,4,4,43.7191649,-79.2504926
+"480 Queens Quay W #806W, Toronto, ON M5V 2Y5","C$2,427,000",3 bds3 ba- Condo for sale,2427000,3,3,43.6375254,-79.39407179999999
+"70 Annie Craig Dr #805, Toronto, ON M8V 0G2","C$739,900",1 bd2 ba- Condo for sale,739900,1,2,43.6247425,-79.4789275
+"70 Annie Craig Dr #4409, Toronto, ON M8V 0G2","C$789,900",1 bd2 ba- Condo for sale,789900,1,2,43.6247425,-79.4789275
+"32 Davenport Rd #707, Toronto, ON M5R 0B5","C$1,158,888",2 bds2 ba- Condo for sale,1158888,2,2,43.67327179999999,-79.3898897
+"399 Connaught Ave, Toronto, ON M2R 2M1","C$2,798,888",4 bds5 ba- House for sale,2798888,4,5,43.7850227,-79.4364346
+"80 Cumberland St S #204, Toronto, ON M5R 3V1","C$1,499,000",2 bds2 ba- Condo for sale,1499000,2,2,43.6706282,-79.3903517
+"52 Reindeer Dr, Toronto, ON M1B 6H5","C$789,000",3 bds3 ba- Townhouse for sale,789000,3,3,43.8090653,-79.17953030000001
+"67 Trailview Ter, Toronto, ON M1B 6H5","C$799,900",3 bds3 ba- Townhouse for sale,799900,3,3,43.8085677,-79.1786012
+"375 King St W #1408, Toronto, ON M5V 1K5","C$585,000",1 bd1 ba- Condo for sale,585000,1,1,43.6457486,-79.3930826
+"26 Norton Ave #407, Toronto, ON M2N 0H6","C$811,100",2 bds2 ba- Condo for sale,811100,2,2,43.7726149,-79.4127603
+"167 Gledhill Ave, Toronto, ON M4C 5K9","C$899,900",3 bds2 ba- House for sale,899900,3,2,43.6918853,-79.3105753
+"627 The West Mall #1504, Toronto, ON M9C 4X5","C$599,999",3 bds2 ba- Condo for sale,599999,3,2,43.6553643,-79.5702658
+"1413 Bloor St W, Toronto, ON M6P 3L4","C$1,980,000",6 bds4 ba- House for sale,1980000,6,4,43.6571636,-79.4474532
+"1 Dunblaine Ave, Toronto, ON M5M 2R6","C$3,599,900",4 bds5 ba- House for sale,3599900,4,5,43.7362044,-79.4182107
+"73 Prosperity Ptwy, Toronto, ON M1B 4G9","C$795,000",4 bds4 ba- House for sale,795000,4,4,43.8111454,-79.2191004
+"389 Winnett Ave, Toronto, ON M6C 3M2","C$1,490,000",3 bds5 ba- House for sale,1490000,3,5,43.6940635,-79.435101
+"30 Herons Hill Way #2310, Toronto, ON M2J 0A7","C$680,000",3 bds2 ba- Condo for sale,680000,3,2,43.7749383,-79.3352515
+"73 Prosperity Ptwy, Toronto, ON M1B 4G9","C$795,000",4 bds4 ba- House for sale,795000,4,4,43.8111454,-79.2191004
+"633 Bay St #2316, Toronto, ON M5G 2G4","C$809,900",2 bds2 ba- Condo for sale,809900,2,2,43.6569087,-79.38356739999999
+"237 Manning Ave, Toronto, ON M6J 2K8","C$2,299,999",9 bds6 ba- House for sale,2299999,9,6,43.6524702,-79.4110898
+"25 Grenville St #1507, Toronto, ON M4Y 2X5","C$650,000",2 bds1 ba- Condo for sale,650000,2,1,43.6617585,-79.3846976
+"48 Rosemount Dr, Toronto, ON M1K 2W9","C$999,000",3 bds3 ba- House for sale,999000,3,3,43.73473449999999,-79.276388
+"2212 Lake Shore Blvd W UNIT 3808, Toronto, ON M8V 0C2","C$725,000",2 bds2 ba- Condo for sale,725000,2,2,43.6225855,-79.4824892
+"135 Wynford Dr #702, Toronto, ON M3C 0J4","C$730,000",2 bds2 ba- Condo for sale,730000,2,2,43.726463,-79.32810839999999
+"46 Tangle Briarway #9, Toronto, ON M2J 2M4","C$848,800","3 bds3 ba1,684 sqft- Townhouse for sale",848800,3,3,43.7830286,-79.3672773
+"159 Dundas St E UNIT 3904, Toronto, ON M5B 0A9","C$569,000",1 bd1 ba- Condo for sale,569000,1,1,43.6568285,-79.37501519999999
+"621 Sheppard Ave E #726, Toronto, ON M2K 0G4","C$669,888",2 bds2 ba- Condo for sale,669888,2,2,43.7679669,-79.381305
+"50 George Butchart Dr, Toronto, ON M3K 1Y2","C$559,900",2 bds1 ba- Condo for sale,559900,2,1,43.73654519999999,-79.48387869999999
+"1 Benvenuto Pl #221, Toronto, ON M4V 2L1","C$1,799,000",1 bd2 ba- Condo for sale,1799000,1,2,43.6813727,-79.40019889999999
+"19 Ashgrove Pl, Toronto, ON M3B 2Y9","C$3,999,000",5 bds7 ba- House for sale,3999000,5,7,43.7423098,-79.34213079999999
+"38 Lee Centre Dr #2603, Toronto, ON M1H 3J7","C$579,000",2 bds2 ba- Condo for sale,579000,2,2,43.7817588,-79.2466125
+"1420 Dupont St #813, Toronto, ON M6H 0C2","C$479,000",1 bd1 ba- Condo for sale,479000,1,1,43.6667421,-79.4482712
+"40 Portage Ave, Toronto, ON M9N 3G7","C$799,000",3 bds2 ba- House for sale,799000,3,2,43.7091795,-79.5203353
+"7 Kimbercroft Ct, Toronto, ON M1S 4V6","C$849,999",3 bds3 ba- House for sale,849999,3,3,43.7908901,-79.2403373
+"30 Meadowglen Pl #1408, Toronto, ON M1G 0A6","C$475,000",1 bd2 ba- Condo for sale,475000,1,2,43.7746779,-79.2305336
+"5 Saint Joseph St #316, Toronto, ON M4Y 0B6","C$588,888",1 bd1 ba- Condo for sale,588888,1,1,43.6657586,-79.3856777
+"28 Wellesley St E #2509, Toronto, ON M4Y 0C4","C$768,000",2 bds1 ba- Condo for sale,768000,2,1,43.6655193,-79.3829212
+"9 Valhalla Inn Rd #811, Toronto, ON M9B 0B2","C$579,786",2 bds1 ba- Condo for sale,579786,2,1,43.6398779,-79.5593676
+"83 Billings Ave, Toronto, ON M4L 2S3","C$1,199,999","4 bds2 ba1,085 sqft- House for sale",1199999,4,2,43.6689485,-79.3258755
+"284 Mill Rd PENTHOUSE 11, Toronto, ON M9C 4W6","C$649,000","2 bds2 ba1,226 sqft- Condo for sale",649000,2,2,43.6375506,-79.58245199999999
+"278 A Bloor St E #1306, Toronto, ON M4W 3M4","C$1,059,800",2 bds2 ba- Condo for sale,1059800,2,2,43.6721683,-79.3804767
+"197 Yonge St S #4005, Toronto, ON M5B 0C1","C$799,000",1 bd1 ba- Condo for sale,799000,1,1,43.6535246,-79.3792385
+"65 Harbour Sq #2508, Toronto, ON M5J 2L4","C$1,589,000",2 bds2 ba- Condo for sale,1589000,2,2,43.6400545,-79.3787285
+"750 Bay St #503, Toronto, ON M5G 1N6","C$938,000",2 bds2 ba- Condo for sale,938000,2,2,43.6596664,-79.38605749999999
+"12 Jade St, Toronto, ON M1T 2T8","C$899,000",3 bds4 ba- House for sale,899000,3,4,43.7813561,-79.2913361
+"43 Shadberry Dr, Toronto, ON M2H 3C9","C$999,000",3 bds3 ba- House for sale,999000,3,3,43.8038951,-79.3519195
+"20 Gladstone Ave #305, Toronto, ON M6J 0E9","C$649,000",2 bds1 ba- Condo for sale,649000,2,1,43.64350659999999,-79.42769070000001
+"55 Bloor St E #907, Toronto, ON M4W 3W6","C$649,000",2 bds2 ba- Condo for sale,649000,2,2,43.67038,-79.38514409999999
+"151 Village Green Sq #906, Toronto, ON M1S 0K5","C$628,000",3 bds2 ba- Condo for sale,628000,3,2,43.7788438,-79.28132509999999
+"106 Duncanwoods Dr, Toronto, ON M9L 2C9","C$849,000",4 bds2 ba- House for sale,849000,4,2,43.7514244,-79.56462429999999
+"955 Bay St #709, Toronto, ON M5S 0C6","C$668,900",2 bds1 ba- Condo for sale,668900,2,1,43.6646319,-79.3869529
+"66 Clareville Cres, Toronto, ON M2J 2C1","C$1,388,000",5 bds2 ba- House for sale,1388000,5,2,43.777213,-79.3590275
+"179 Kennard Ave, Toronto, ON M3H 4M8","C$2,190,000",4 bds5 ba- House for sale,2190000,4,5,43.7595731,-79.462606
+"1 Sylvestre Sq, Toronto, ON M1W 3V1","C$1,190,000",6 bds6 ba- House for sale,1190000,6,6,43.8172272,-79.3175447
+"89 Mcgill St #2108, Toronto, ON M5B 0B1","C$869,000",2 bds2 ba- Condo for sale,869000,2,2,43.6606215,-79.3786217
+"215 Queen St W #1312, Toronto, ON M5V 1Z4","C$479,000",Studio1 ba- Condo for sale,479000,1,1,43.65042769999999,-79.3877847
+"16 Bonnycastle St #2007, Toronto, ON M5A 0C9","C$619,900",1 bd1 ba- Condo for sale,619900,1,1,43.6460855,-79.3648886
+"71 Cassis Dr, Toronto, ON M9V 4Z4","C$1,249,900",7 bds5 ba- House for sale,1249900,7,5,43.7515254,-79.60402909999999
+"106 Duncanwoods Dr, Toronto, ON M9L 2C9","C$849,000",4 bds2 ba- House for sale,849000,4,2,43.7514244,-79.56462429999999
+"8 The Esplanade #2806, Toronto, ON M5E 0A6","C$779,000",2 bds1 ba- Condo for sale,779000,2,1,43.6460366,-79.3763206
+"215 Queen St W #1312, Toronto, ON M5V 1Z4","C$479,000",Studio1 ba- Condo for sale,479000,1,1,43.65042769999999,-79.3877847
+"25 Kenora Cres, Toronto, ON M6M 1C5","C$830,000",3 bds2 ba- House for sale,830000,3,2,43.6844323,-79.46329109999999
+"89 Mcgill St #2108, Toronto, ON M5B 0B1","C$869,000",2 bds2 ba- Condo for sale,869000,2,2,43.6606215,-79.3786217
+"81 Gennela Sq, Toronto, ON M1B 5M7","C$1,099,000",5 bds4 ba- House for sale,1099000,5,4,43.8137433,-79.1988269
+"151 Village Green Sq #906, Toronto, ON M1S 0K5","C$628,000",3 bds2 ba- Condo for sale,628000,3,2,43.7788438,-79.28132509999999
+"16 Bonnycastle St #2007, Toronto, ON M5A 0C9","C$619,900",1 bd1 ba- Condo for sale,619900,1,1,43.6460855,-79.3648886
+"125 Blue Jays Way #5308, Toronto, ON M5V 0N5","C$1,049,900",4 bds2 ba- Condo for sale,1049900,4,2,43.6457862,-79.3918496
+"56 Annie Craig Dr #3401, Toronto, ON M8V 0C8","C$1,499,000",2 bds2 ba- Condo for sale,1499000,2,2,43.6254787,-79.4788159
+"475 Silverstone Dr, Toronto, ON M9V 3L2","C$997,000",3 bds3 ba- House for sale,997000,3,3,43.7394214,-79.5967134
+"116 Micmac Cres, Toronto, ON M2H 2K2","C$899,000",4 bds4 ba- House for sale,899000,4,4,43.7956495,-79.3405901
+"30 Boneset Rd, Toronto, ON M2J 4X4","C$899,000",3 bds2 ba- House for sale,899000,3,2,43.7765728,-79.33428119999999
+"609 Cummer Ave, Toronto, ON M2K 2M5","C$1,899,998",4 bds4 ba- House for sale,1899998,4,4,43.7943758,-79.38345679999999
+"2220 Lakeshore Blvd W #UPH06, Toronto, ON M8V 0C1","C$999,000",3 bds2 ba- Condo for sale,999000,3,2,43.6228596,-79.4831828
+"1274 Kipling Ave, Toronto, ON M9B 3N5","C$998,888",3 bds2 ba- House for sale,998888,3,2,43.6627216,-79.54489029999999
+"73 Mentor Blvd, Toronto, ON M2H 2M9","C$958,000",3 bds2 ba- House for sale,958000,3,2,43.803085,-79.3497994
+"43 Lambton Ave, Toronto, ON M6N 2S3","C$899,900","2 bds2 ba1,078 sqft- House for sale",899900,2,2,43.6835052,-79.48630639999999
+"30 Roehampton Ave #320, Toronto, ON M4P 0B9","C$699,800",1 bd1 ba- Condo for sale,699800,1,1,43.7085241,-79.39760919999999
+"10 Martha Eaton Way #1005, Toronto, ON M6M 5B3","C$439,000",2 bds2 ba- Condo for sale,439000,2,2,43.69730999999999,-79.48989999999999
+"25 Four Winds Dr #1107, Toronto, ON M3J 1K8","C$499,000",2 bds1 ba- Condo for sale,499000,2,1,43.7641585,-79.4961388
+"100 Wingarden Ct #1902, Toronto, ON M1B 2P4","C$445,000",2 bds2 ba- Condo for sale,445000,2,2,43.8115126,-79.2260204
+"1060 Sheppard Ave #401, Toronto, ON M3J 0G7","C$555,000",1 bd1 ba- Condo for sale,555000,1,1,43.7506089,-79.46386890000001
+"48 Dellbrook Cres, Toronto, ON M9L 1E2","C$799,900",3 bds3 ba- House for sale,799900,3,3,43.7554782,-79.57479
+"70 Forest Manor Rd #2812, Toronto, ON M2J 0A9","C$735,000",2 bds2 ba- Condo for sale,735000,2,2,43.7745395,-79.3449495
+"2010 Islington Ave #1604, Toronto, ON M9P 3S8","C$828,888",3 bds2 ba- Condo for sale,828888,3,2,43.6982931,-79.5478787
+"72 Beaumonde Heights Dr, Toronto, ON M9V 1V9","C$999,000",3 bds2 ba- House for sale,999000,3,2,43.7430105,-79.5685863
+"41 Frank Rivers Dr, Toronto, ON M1W 3R9","C$899,000",3 bds4 ba- House for sale,899000,3,4,43.818043,-79.3273406
+"141 Glencairn Ave, Toronto, ON M4R 1N1","C$3,388,000",4 bds2 ba- House for sale,3388000,4,2,43.7167452,-79.4075943
+"3 Thornly Cres, Toronto, ON M9B 2M4","C$1,498,000","4 bds3 ba1,222 sqft- House for sale",1498000,4,3,43.6609495,-79.5458683
+"15 Melton Grove St, Toronto, ON M2R 2G8","C$1,200,000",2 bds3 ba- House for sale,1200000,2,3,43.7772844,-79.436713
+"783 Bathurst St #805, Toronto, ON M5S 0A8","C$1,199,900",3 bds2 ba- Condo for sale,1199900,3,2,43.6645657,-79.4107991
+"460 R Adelaide St E #733, Toronto, ON M5A 0E7","C$699,999",2 bds2 ba- Condo for sale,699999,2,2,43.65280500000001,-79.3666927
+"95 Bathurst St #321, Toronto, ON M5V 0H7","C$649,900",1 bd1 ba- Condo for sale,649900,1,1,43.6445805,-79.40255789999999
+"48 Cork Ave, Toronto, ON M6B 2X8","C$1,190,000","3 bds2 ba1,600 sqft- House for sale",1190000,3,2,43.7139535,-79.45135049999999
+"1 Hycrest Ave W #308, Toronto, ON M2N 6V8","C$689,000",2 bds2 ba- Condo for sale,689000,2,2,43.7660565,-79.3917989
+"35 Church St #202, Toronto, ON M5E 1T3","C$789,000",1 bd1 ba- Condo for sale,789000,1,1,43.6491415,-79.3738573
+"129 Harewood Ave, Toronto, ON M1M 2R6","C$989,999",2 bds2 ba- House for sale,989999,2,2,43.724321,-79.2358856
+"108 Ellerslie Ave, Toronto, ON M2N 1X8","C$1,299,888",2 bds1 ba- House for sale,1299888,2,1,43.7706506,-79.418594
+"248 Sutherland Dr, Toronto, ON M4G 1J3","C$2,849,000",4 bds5 ba- House for sale,2849000,4,5,43.7060161,-79.3647496
+"832 Bay St #2501, Toronto, ON M5S 1Z6","C$689,900",1 bd1 ba- Condo for sale,689900,1,1,43.6620809,-79.3865134
+"371 Spadina Rd, Toronto, ON M5P 2V7","C$2,799,000",5 bds3 ba- House for sale,2799000,5,3,43.6872705,-79.4119078
+"621 Sheppard Ave E #327, Toronto, ON M2K 0G4","C$469,000",1 bd1 ba- Condo for sale,469000,1,1,43.7679669,-79.381305
+"231 Fort York Blvd #2507, Toronto, ON M5V 1B2","C$659,900",1 bd1 ba- Condo for sale,659900,1,1,43.6370379,-79.4063934
+"47 Hepscott Ter, Toronto, ON M1W 1C9","C$899,999",4 bds2 ba- House for sale,899999,4,2,43.7927296,-79.3289884
+"44 Blackwater Cres, Toronto, ON M1B 1L6","C$859,900",3 bds4 ba- House for sale,859900,3,4,43.7987811,-79.2167305
+"17 Whitefriars Dr, Toronto, ON M3A 2L2","C$1,449,000",3 bds4 ba- House for sale,1449000,3,4,43.7486573,-79.33029830000001
+"386 Yonge St #2007, Toronto, ON M5B 0A5","C$1,089,900",3 bds2 ba- Condo for sale,1089900,3,2,43.6596706,-79.3825726
+"37 Centrepark Dr, Toronto, ON M6M 5K3","C$888,888",3 bds3 ba- House for sale,888888,3,3,43.6952558,-79.4984228
+"30 Roehampton Ave #906, Toronto, ON M4P 0B9","C$649,500",1 bd1 ba- Condo for sale,649500,1,1,43.7085241,-79.39760919999999
+"8 Thunder Grv #99, Toronto, ON M1V 1V6","C$649,900",3 bds2 ba- Townhouse for sale,649900,3,2,43.8103714,-79.26549779999999
+"71 Parrotta Dr, Toronto, ON M9M 0B5","C$848,888",4 bds4 ba- Townhouse for sale,848888,4,4,43.7334097,-79.53536749999999
+"41 Holcolm Rd, Toronto, ON M2N 2C8","C$989,000",3 bds3 ba- House for sale,989000,3,3,43.7763076,-79.4189143
+"1 Aberfoyle Cres #809, Toronto, ON M8X 2X8","C$719,000",1 bd1 ba- Condo for sale,719000,1,1,43.6458046,-79.5197835
+"380 Macpherson Ave #106, Toronto, ON M4V 3E3","C$1,490,000","3 bds3 ba1,360 sqft- Condo for sale",1490000,3,3,43.6764978,-79.40576639999999
+"290 Valermo Dr, Toronto, ON M8W 0B6","C$1,775,000",4 bds4 ba- House for sale,1775000,4,4,43.6094065,-79.5331509
+"34 Marlborough Ave, Toronto, ON M5R 1X6","C$2,199,000",3 bds4 ba- Townhouse for sale,2199000,3,4,43.679833,-79.39199959999999
+"50 George Butchart Dr #17, Toronto, ON M3K 1Y2","C$559,900",1 bd1 ba- Condo for sale,559900,1,1,43.73654519999999,-79.48387869999999
+"11 Charlotte St #702, Toronto, ON M5V 0M6","C$950,000",2 bds2 ba842 sqft- Condo for sale,950000,2,2,43.6464437,-79.39358419999999
+"1003 Bathurst St, Toronto, ON M5R 3G8","C$2,199,900",6 bds4 ba- House for sale,2199900,6,4,43.6707663,-79.41314659999999
+"65 Saint Mary St #4007, Toronto, ON M5S 0A6","C$739,000",1 bd1 ba- Condo for sale,739000,1,1,43.6672065,-79.389162
+"5 Marine Parade Dr #707, Toronto, ON M8V 4B4","C$699,999",2 bds2 ba- Condo for sale,699999,2,2,43.6299034,-79.4755739
+"190 Benjamin Boake Trl, Toronto, ON M3J 3C4","C$1,069,900",4 bds3 ba- House for sale,1069900,4,3,43.74695089999999,-79.49448579999999
+"1 Massey Sq #2503, Toronto, ON M4C 5L4","C$459,900",2 bds1 ba- Condo for sale,459900,2,1,43.696526,-79.294243
+"60 Holmstead Ave, Toronto, ON M4B 1T2","C$1,099,000",6 bds3 ba- House for sale,1099000,6,3,43.7097886,-79.2981291
+"80 Esther Lorrie Dr #602, Toronto, ON M9W 0C6","C$469,900",2 bds1 ba- Condo for sale,469900,2,1,43.731918,-79.57693739999999
+"89 Roxanne Cres, Toronto, ON M1V 4J2","C$999,900",4 bds4 ba- House for sale,999900,4,4,43.8278519,-79.2867198
+"50 Verne Cres #49, Toronto, ON M1B 2X1","C$679,999",3 bds3 ba- Condo for sale,679999,3,3,43.7961956,-79.23700269999999
+"50 Forest Manor Rd #1504, Toronto, ON M2J 0E3","C$619,000",2 bds2 ba- Condo for sale,619000,2,2,43.7727169,-79.34540899999999
+"112 Chelwood Rd, Toronto, ON M1K 2K8","C$699,900",4 bds3 ba- House for sale,699900,4,3,43.7282131,-79.2714763
+"560 Front St W #710, Toronto, ON M5V 1C1","C$449,000",1 bd1 ba- Condo for sale,449000,1,1,43.64125,-79.3999726
+"42 Ashbury Ave, Toronto, ON M6E 1V7","C$899,000",2 bds2 ba- House for sale,899000,2,2,43.69038889999999,-79.4417868
+"225 Village Green Sq #2108, Toronto, ON M1S 0L7","C$689,000",3 bds2 ba- Condo for sale,689000,3,2,43.7797917,-79.28182509999999
+"85 Wood St #4005, Toronto, ON M4Y 2N4","C$599,000",1 bd1 ba- Condo for sale,599000,1,1,43.66278639999999,-79.3792921
+"2 Moorecroft Cres, Toronto, ON M1K 3V1","C$988,000",3 bds2 ba- House for sale,988000,3,2,43.7377825,-79.26660849999999
+"25 Deerford Rd, Toronto, ON M2J 3H9","C$1,548,000",5 bds4 ba- House for sale,1548000,5,4,43.786558,-79.3489855
+"123 Anthony Rd, Toronto, ON M3K 1B7","C$2,499,000",4 bds4 ba- House for sale,2499000,4,4,43.7280942,-79.4693123
+"5 Saint Joseph St #2204, Toronto, ON M4Y 0B6","C$679,000",2 bds1 ba- Condo for sale,679000,2,1,43.6657586,-79.3856777
+"178 5th St, Toronto, ON M8V 2Z7","C$899,000",3 bds2 ba- House for sale,899000,3,2,43.6030901,-79.50405719999999
+"36 A Mendota Rd #2, Toronto, ON M8Y 1E8","C$1,099,000",4 bds3 ba- Townhouse for sale,1099000,4,3,43.62422429999999,-79.4976346
+"21 Windsor Rd, Toronto, ON M9R 3G2","C$999,999",3 bds3 ba- House for sale,999999,3,3,43.6989374,-79.555779
+"19 Rosebank Dr #2101, Toronto, ON M1B 5Z2","C$699,000",3 bds3 ba- Condo for sale,699000,3,3,43.7915008,-79.2367495
+"53 Bradstone Sq, Toronto, ON M1B 1W1","C$799,000",4 bds3 ba- Townhouse for sale,799000,4,3,43.8121169,-79.2308395
+"380 Hopewell Ave #222, Toronto, ON M6E 2S2","C$799,000",2 bds2 ba- Condo for sale,799000,2,2,43.7007513,-79.4438251
+"3076 Lake Shore Blvd W #8, Toronto, ON M8V 4E3","C$849,000",2 bds3 ba- Townhouse for sale,849000,2,3,43.5996087,-79.51156449999999
+"2269 Lake Shore Blvd W #909, Toronto, ON M8V 3X6","C$649,900",1 bd2 ba- Condo for sale,649900,1,2,43.6196334,-79.48429709999999
+"146 N Woodrow Blvd, Toronto, ON M1K 1X1","C$799,000",3 bds3 ba- House for sale,799000,3,3,43.7149734,-79.2668961
+"388 Browns Line #302, Toronto, ON M8W 3T8","C$675,000",1 bd2 ba- Condo for sale,675000,1,2,43.600966,-79.5452907
+"3390 Weston Rd #704, Toronto, ON M9M 2X3","C$397,000",2 bds1 ba- Condo for sale,397000,2,1,43.7491022,-79.54282540000001
+"10 Salinas Ct, Toronto, ON M6B 4L3","C$1,199,000",5 bds4 ba- House for sale,1199000,5,4,43.7001287,-79.4491975
+"85 Wood St #502, Toronto, ON M4Y 0E8","C$748,000",2 bds2 ba- Condo for sale,748000,2,2,43.66278639999999,-79.3792921
+"488 University Ave #3112, Toronto, ON M5G 0C1","C$888,000",1 bd1 ba- Condo for sale,888000,1,1,43.6550277,-79.3890703
+"44 Lavington Dr, Toronto, ON M9R 2H2","C$958,888",3 bds2 ba- House for sale,958888,3,2,43.6893448,-79.5655148
+"19 Grand Trunk Cres #2205, Toronto, ON M5J 3A3","C$699,900",1 bd1 ba- Condo for sale,699900,1,1,43.6416602,-79.3827118
+"34 Waxham Rd, Toronto, ON M9W 3L3","C$849,900","4 bds2 ba2,600 sqft- House for sale",849900,4,2,43.725555,-79.58119210000001
+"18 Strader Ave, Toronto, ON M6C 1P9","C$899,000",3 bds3 ba- House for sale,899000,3,3,43.69396460000001,-79.4400792
+"105 George St #814, Toronto, ON M5A 0L4","C$499,900",1 bd1 ba- Condo for sale,499900,1,1,43.6522051,-79.3707929
+"37 Langfield Cres, Toronto, ON M9V 3L6","C$979,900",4 bds3 ba- House for sale,979900,4,3,43.74809219999999,-79.5902327
+"200 Manitoba St #511, Toronto, ON M8Y 3Y9","C$599,000",1 bd2 ba- Condo for sale,599000,1,2,43.6244555,-79.4910182
+"300 Front St W #303, Toronto, ON M5V 0E9","C$728,000",1 bd1 ba- Condo for sale,728000,1,1,43.6441277,-79.38940579999999
+"190 Manitoba St #812, Toronto, ON M8Y 3Y8","C$699,000",2 bds2 ba- Condo for sale,699000,2,2,43.6241473,-79.49191909999999
+"24 Tarbert Rd, Toronto, ON M2M 2Y2","C$1,698,000",4 bds3 ba- House for sale,1698000,4,3,43.802449,-79.3913206
+"15 Grenville St #710, Toronto, ON M4Y 0B9","C$759,900",2 bds1 ba- Condo for sale,759900,2,1,43.66186140000001,-79.3841461
+"10 Park Lawn Rd UNIT 3203, Toronto, ON M8V 0H9","C$549,000",1 bd1 ba- Condo for sale,549000,1,1,43.6233108,-79.48375089999999
+"15 Thornbeck Dr, Toronto, ON M1G 2J7","C$949,900",3 bds2 ba- House for sale,949900,3,2,43.7692115,-79.2173242
+"236 Albion Rd #912, Toronto, ON M9W 6A6","C$365,000",2 bds1 ba- Condo for sale,365000,2,1,43.7220131,-79.5439842
+"180 University Ave #2706, Toronto, ON M5H 0A2","C$2,249,900",2 bds3 ba- Condo for sale,2249900,2,3,43.64882679999999,-79.386259
+"50 Town Center Ct #2403, Toronto, ON M1P 0A9","C$479,900",1 bd1 ba- Condo for sale,479900,1,1,43.7732622,-79.2552731
+"7 Ellie Dr, Toronto, ON M1G 2G8","C$799,000",3 bds3 ba- House for sale,799000,3,3,43.7652764,-79.2148407
+"28 Rexdale Blvd #17, Toronto, ON M9W 5Z3","C$449,900",3 bds2 ba- Townhouse for sale,449900,3,2,43.7142399,-79.55794000000002
+"38 Monte Kwinter Ct #217, Toronto, ON M3H 0E1","C$449,000",1 bd1 ba- Condo for sale,449000,1,1,43.7335675,-79.44883089999999
+"50 Belleville St, Toronto, ON M4E 0A6","C$799,999",2 bds2 ba- Condo for sale,799999,2,2,43.6871467,-79.2906514
+"43 Hisey Cres, Toronto, ON M3N 1T9","C$799,900",3 bds2 ba- House for sale,799900,3,2,43.770092,-79.5280523
+"8 Rean Dr #806, Toronto, ON M2K 3B9","C$499,900",1 bd1 ba- Condo for sale,499900,1,1,43.7660492,-79.382764
+"175 Hilda Ave #715, Toronto, ON M2M 1V8","C$619,900",3 bds2 ba- Condo for sale,619900,3,2,43.794605,-79.4271802
+"3 Harcroft Rd, Toronto, ON M6S 2V8","C$3,999,500",4 bds5 ba- House for sale,3999500,4,5,43.6508818,-79.4717201
+"1 Caldy Ct, Toronto, ON M2L 2J5","C$5,775,000",7 bds8 ba- House for sale,5775000,7,8,43.7586757,-79.3877814
+"199 Pellatt Ave, Toronto, ON M9N 2P5","C$799,000",3 bds1 ba- House for sale,799000,3,1,43.7140774,-79.5213656
+"3303 Don Mills Rd #3308, Toronto, ON M2J 4T6","C$659,900",2 bds2 ba- Condo for sale,659900,2,2,43.7918708,-79.3534687
+"79 Courcelette Rd, Toronto, ON M1N 2T1","C$1,399,900","3 bds2 ba1,400 sqft- House for sale",1399900,3,2,43.6778666,-79.2783802
+"20 Shore Breeze Dr #401, Toronto, ON M8V 0C7","C$649,900",2 bds2 ba- Condo for sale,649900,2,2,43.6234873,-79.478949
+"560 Front St W PENTHOUSE 31, Toronto, ON M5V 1C1","C$1,199,900",3 bds2 ba- Condo for sale,1199900,3,2,43.64125,-79.3999726
+"30 Stanley Greene Blvd, Toronto, ON M3K 0A9","C$1,890,000",5 bds4 ba- House for sale,1890000,5,4,43.73335549999999,-79.4781918
+"393 Beechgrove Dr #74, Toronto, ON M1E 2R1","C$589,000",3 bds3 ba- Townhouse for sale,589000,3,3,43.776745,-79.1721228
+"21 Iceboat Ter #4601, Toronto, ON M5V 4A9","C$599,900",1 bd1 ba- Condo for sale,599900,1,1,43.64049809999999,-79.3974313
+"339 Leslie St, Toronto, ON M4M 3C8","C$985,900",4 bds2 ba- Townhouse for sale,985900,4,2,43.6692305,-79.3325333
+"39 Brant St UNIT 513, Toronto, ON M5V 0M8","C$619,900",1 bd1 ba- Condo for sale,619900,1,1,43.6464821,-79.39809850000002
+"40 Belgravia Ave, Toronto, ON M6E 2M5","C$899,900",4 bds3 ba952 sqft- House for sale,899900,4,3,43.699386,-79.4415385
+"12 Sheila Ct, Toronto, ON M9V 3M4","C$699,900",3 bds2 ba- House for sale,699900,3,2,43.7531645,-79.5922395
+"295 Adelaide St W #2903, Toronto, ON M5V 0L4","C$699,000",1 bd1 ba- Condo for sale,699000,1,1,43.64767519999999,-79.390532
+"100 Wingarden Ct #1016, Toronto, ON M1B 2P4","C$405,000",2 bds2 ba- Condo for sale,405000,2,2,43.8115126,-79.2260204
+"9 Eversfield Rd, Toronto, ON M6E 1T6","C$919,000",3 bds2 ba- House for sale,919000,3,2,43.6868022,-79.447732
+"36 Manor Rd E #6, Toronto, ON M4S 1P8","C$588,000",1 bd1 ba- Condo for sale,588000,1,1,43.7030241,-79.39580910000001
+"41 Princeton Rd, Toronto, ON M8X 2E3","C$1,899,000",3 bds3 ba- House for sale,1899000,3,3,43.65396399999999,-79.5152495
+"100 Wingarden Ct #1603, Toronto, ON M1B 2P4","C$405,000",2 bds2 ba- Condo for sale,405000,2,2,43.8115126,-79.2260204
+"270 Timberbank Blvd #78, Toronto, ON M1W 2M1","C$729,999",3 bds3 ba- Townhouse for sale,729999,3,3,43.7968965,-79.30735960000001
+"100 Wingarden Ct #1916, Toronto, ON M1B 2P4","C$405,000",2 bds2 ba- Condo for sale,405000,2,2,43.8115126,-79.2260204
+"9 Cutler Cres, Toronto, ON M8W 2K4","C$1,199,000",3 bds2 ba- House for sale,1199000,3,2,43.6050922,-79.5484809
+"32 Treadway Blvd, Toronto, ON M4C 3H5","C$2,100,000",4 bds5 ba- House for sale,2100000,4,5,43.6977183,-79.3284572
+"701 Sheppard Ave W #612, Toronto, ON M3H 0B2","C$988,888",3 bds2 ba- Condo for sale,988888,3,2,43.7542446,-79.4432827
+"162 Aldercrest Rd, Toronto, ON M8W 4J3","C$1,298,800",4 bds4 ba- House for sale,1298800,4,4,43.6039976,-79.5404174
+"19 Cole St #8, Toronto, ON M5A 4M6","C$899,999",3 bds3 ba- Townhouse for sale,899999,3,3,43.660251,-79.3652068
+"1940 Queen St E, Toronto, ON M4L 1H6","C$2,269,000",2 bds2 ba- House for sale,2269000,2,2,43.6695573,-79.303173
+"75 Blackwell Ave #1, Toronto, ON M1B 1K5","C$574,800",4 bds2 ba- Townhouse for sale,574800,4,2,43.8046758,-79.2189602
+"410 Queens Quay W #1513, Toronto, ON M5V 3T1","C$589,000",1 bd1 ba- Condo for sale,589000,1,1,43.63806109999999,-79.3914588
+"8 Drummond St #416, Toronto, ON M8V 1Y8","C$499,900",1 bd1 ba- Townhouse for sale,499900,1,1,43.6131774,-79.4980971
+"612 Bathurst St, Toronto, ON M5S 2R1","C$1,649,900",4 bds2 ba- House for sale,1649900,4,2,43.6600673,-79.409452
+"75 Saint Nicholas St #309, Toronto, ON M4Y 0A5","C$705,000",1 bd1 ba- Condo for sale,705000,1,1,43.6677586,-79.38644599999999
+"36 Moorecroft Cres, Toronto, ON M1K 3V1","C$849,000",3 bds2 ba- House for sale,849000,3,2,43.7379426,-79.2689935
+"3 Everson Dr #669, Toronto, ON M2N 7C2","C$649,000",2 bds2 ba- Townhouse for sale,649000,2,2,43.75690729999999,-79.4061906
+"10 Claybrooke St, Toronto, ON M6M 3P7","C$1,049,900",2 bds2 ba- House for sale,1049900,2,2,43.6942604,-79.4717728
+"10 Parkway Forest Dr #1604, Toronto, ON M2J 1L3","C$459,900",2 bds1 ba- Condo for sale,459900,2,1,43.7699559,-79.3454596
+"473 Dupont St #4, Toronto, ON M6G 1Y6","C$949,000",2 bds2 ba- Condo for sale,949000,2,2,43.6728265,-79.4150033
+"20 Fleming Cres, Toronto, ON M4G 2A8","C$1,949,000",4 bds2 ba- House for sale,1949000,4,2,43.7082008,-79.3736436
+"160 Alton Towers Cir #209, Toronto, ON M1V 4X8","C$399,900",1 bd1 ba- Condo for sale,399900,1,1,43.8263262,-79.2750662
+"271 Torbarrie Rd, Toronto, ON M3L 0E2","C$799,913",3 bds4 ba- Townhouse for sale,799913,3,4,43.7297692,-79.52391449999999
+"10 Tangreen Ct #1204, Toronto, ON M2M 4B9","C$635,000",3 bds2 ba- Condo for sale,635000,3,2,43.7958928,-79.4271329
+"1328 Birchmount Rd #1803, Toronto, ON M1R 0B6","C$589,999",2 bds2 ba- Condo for sale,589999,2,2,43.7485378,-79.2861688
+"760 Lawrence Ave W #87, Toronto, ON M6A 3E7","C$699,000",3 bds3 ba- Condo for sale,699000,3,3,43.71551119999999,-79.4516599
+"83 Borough Dr #2005, Toronto, ON M1P 5E4","C$599,000",2 bds2 ba- Condo for sale,599000,2,2,43.7727959,-79.2617693
+"1101 Steeles Ave #410, Toronto, ON M2R 3W5","C$619,990",2 bds2 ba- Condo for sale,619990,2,2,43.7904347,-79.44849099999999
+"25 Bamburgh Cir #432, Toronto, ON M1W 3W2","C$615,000",3 bds2 ba- Condo for sale,615000,3,2,43.8155112,-79.3256954
+"88 Alton Tower Cir #302, Toronto, ON M1V 5C5","C$499,900",2 bds1 ba- Condo for sale,499900,2,1,43.8248087,-79.27447099999999
+"2800 Midland Ave #55, Toronto, ON M1S 3K7","C$688,000",4 bds3 ba- Condo for sale,688000,4,3,43.7979257,-79.2842093
+"53 Regent St, Toronto, ON M6N 3N8","C$799,900",3 bds2 ba- House for sale,799900,3,2,43.6814708,-79.4697073
+"525 Adelaide St W UNIT 1106, Toronto, ON M5V 0N7","C$999,900",3 bds2 ba- Condo for sale,999900,3,2,43.6451715,-79.40207749999999
+"161 Concord Ave, Toronto, ON M6H 2P2","C$1,799,000",6 bds4 ba- House for sale,1799000,6,4,43.6583322,-79.42527869999999
+"25 Bella Vista Way, Toronto, ON M3M 3H8","C$899,900",5 bds4 ba- Condo for sale,899900,5,4,43.7425583,-79.49349269999999
+"215 Silver Springs Blvd, Toronto, ON M1V 1G5","C$898,000",6 bds4 ba- House for sale,898000,6,4,43.804192,-79.3007691
+"901 Kennedy Rd #21, Toronto, ON M1K 2E9","C$550,000",2 bds2 ba- Condo for sale,550000,2,2,43.74126039999999,-79.27122360000001
+"36 Lisgar St #1206W, Toronto, ON M6J 0C7","C$539,900",2 bds2 ba- Condo for sale,539900,2,2,43.6420208,-79.4233917
+"132 Darcy St, Toronto, ON M5T 1K3","C$1,488,000",10 bds4 ba- House for sale,1488000,10,4,43.6543393,-79.3973322
+"42 Protea Gdns, Toronto, ON M2K 2W6","C$1,199,999",3 bds3 ba- Townhouse for sale,1199999,3,3,43.77073499999999,-79.3721156
+"10 Queens Quay W #1512, Toronto, ON M5J 2R9","C$679,000",1 bd1 ba- Condo for sale,679000,1,1,43.6418407,-79.3757998
+"17 Cotton Ave, Toronto, ON M1K 1Z3","C$999,999",3 bds2 ba- House for sale,999999,3,2,43.71375339999999,-79.2624036
+"131 Beecroft Rd #308, Toronto, ON M2N 6G9","C$839,900",2 bds2 ba- Condo for sale,839900,2,2,43.76442,-79.41380060000002
+"21 Nelson St #408, Toronto, ON M5V 3H9","C$599,000",1 bd1 ba- Condo for sale,599000,1,1,43.6488776,-79.3880393
+"46 Day Ave, Toronto, ON M6E 3V9","C$799,999",3 bds2 ba- House for sale,799999,3,2,43.6821033,-79.447147
+"5 Valhalla Inn Rd #1506, Toronto, ON M9B 0B1","C$530,000",1 bd1 ba- Condo for sale,530000,1,1,43.640269,-79.5599604
+"238 Bonis Ave #1119, Toronto, ON M1T 3W7","C$499,000",2 bds2 ba- Condo for sale,499000,2,2,43.7859188,-79.2904455
+"80 Queens Wharf Rd #503, Toronto, ON M5V 0J3","C$699,900",1 bd1 ba- Condo for sale,699900,1,1,43.63859859999999,-79.400027
+"75 Portland St #1001, Toronto, ON M5V 2M9","C$799,000",1 bd1 ba- Condo for sale,799000,1,1,43.6439201,-79.3994776
+"33 Pendeen Ave, Toronto, ON M6N 2P4","C$699,000",2 bds2 ba- House for sale,699000,2,2,43.6790297,-79.4992406
+"161 Roehampton Ave #1013, Toronto, ON M4P 0C8","C$599,000",1 bd2 ba- Condo for sale,599000,1,2,43.70877249999999,-79.3937821
+"290 Adelaide St W #3803, Toronto, ON M5A 1N1","C$468,000",Studio1 ba- Condo for sale,468000,1,1,43.6480809,-79.3910262
+"193 Islington Ave, Toronto, ON M8V 3B8","C$1,299,900",4 bds2 ba- House for sale,1299900,4,2,43.6027466,-79.50590729999999
+"342 Arlington Ave, Toronto, ON M6C 2Z9","C$1,379,000",3 bds2 ba- House for sale,1379000,3,2,43.6880906,-79.43181469999999
+"50 Thimble Berry Way #58, Toronto, ON M2H 3K7","C$699,000",3 bds3 ba- Townhouse for sale,699000,3,3,43.8097189,-79.36079830000001
+"111 Bathurst St #717, Toronto, ON M5V 0M9","C$839,000",2 bds1 ba- Condo for sale,839000,2,1,43.6448228,-79.40280369999999
+"33 Pidgeon St, Toronto, ON M1L 0C8","C$899,000",4 bds4 ba- Townhouse for sale,899000,4,4,43.71614760000001,-79.2779339
+"291 Ontario St #5, Toronto, ON M5A 2V8","C$699,999",2 bds1 ba- Condo for sale,699999,2,1,43.659247,-79.3684691
+"135 Mcintosh St, Toronto, ON M1N 3Y8","C$1,299,000",4 bds4 ba- House for sale,1299000,4,4,43.7075121,-79.2518326
+"112 Rameau Dr, Toronto, ON M2H 1V4","C$1,298,888",3 bds2 ba- House for sale,1298888,3,2,43.7942568,-79.356676
+"602 A Wellington St W #8, Toronto, ON M5V 2X5","C$599,000",1 bd1 ba- Townhouse for sale,599000,1,1,43.6424449,-79.4039768
+"150 Homewood Ave #L109, Toronto, ON M4Y 2J6","C$699,000",1 bd2 ba- Townhouse for sale,699000,1,2,43.6676907,-79.3766745
+"550 Queens Quay W #112, Toronto, ON M5V 3M8","C$699,000",1 bd1 ba- Condo for sale,699000,1,1,43.6368787,-79.3966477
+"521 Rogers Rd, Toronto, ON M6M 1B4","C$899,000",4 bds3 ba- House for sale,899000,4,3,43.6821137,-79.4688263
+"710 Grandview Way #90, Toronto, ON M2N 6V5","C$1,188,000",3 bds3 ba- Townhouse for sale,1188000,3,3,43.7756097,-79.4109271
+"550 Queens Quay W #112, Toronto, ON M5V 3M8","C$699,000",1 bd1 ba- Condo for sale,699000,1,1,43.6368787,-79.3966477
+"188 Eglinton Ave E #310, Toronto, ON M4P 2X7","C$499,900",1 bd1 ba- Condo for sale,499900,1,1,43.7081819,-79.392592
+"135 Village Green Sq #1426, Toronto, ON M1S 0G4","C$449,000",1 bd1 ba- Condo for sale,449000,1,1,43.7778803,-79.2808486
+"117 Cedarcrest Blvd, Toronto, ON M4B 2P4","C$899,900",2 bds2 ba- House for sale,899900,2,2,43.7068348,-79.30090799999999
+"92 Hiltz Ave, Toronto, ON M4L 2N5","C$999,900",2 bds2 ba- House for sale,999900,2,2,43.66651890000001,-79.3274302
+"145 Snowdon Ave, Toronto, ON M4N 2B1","C$1,895,000",3 bds2 ba- House for sale,1895000,3,2,43.7320124,-79.3984656
+"295 Adelaide St W #2106, Toronto, ON M5V 0L4","C$699,000",1 bd1 ba- Condo for sale,699000,1,1,43.64767519999999,-79.390532
+"30 Mason Blvd, Toronto, ON M5M 3C7","C$5,499,900",4 bds7 ba- House for sale,5499900,4,7,43.7371701,-79.407629
+"361 Front St W #3210, Toronto, ON M5V 3R5","C$799,000",2 bds1 ba- Condo for sale,799000,2,1,43.6431921,-79.3915011
+"50 Belleville St #20, Toronto, ON M4E 0A6","C$799,999",2 bds2 ba- Townhouse for sale,799999,2,2,43.6871467,-79.2906514
+"30 Roehampton Ave #419, Toronto, ON M4P 0B9","C$938,000",2 bds2 ba- Condo for sale,938000,2,2,43.7085241,-79.39760919999999
+"1050 The Queensway Rd #109, Toronto, ON M8Z 0A8","C$599,000",2 bds2 ba- Condo for sale,599000,2,2,43.6233479,-79.5171886
+"38 Dan Leckie Way #627, Toronto, ON M5V 2V6","C$599,999",1 bd2 ba- Condo for sale,599999,1,2,43.6374607,-79.39792589999999
+"15 Iceboat Ter #1216, Toronto, ON M5V 4A5","C$679,000",1 bd1 ba- Condo for sale,679000,1,1,43.6405556,-79.3968958
+"82 Pachino Blvd, Toronto, ON M1R 4J9","C$1,195,000",3 bds3 ba- House for sale,1195000,3,3,43.7637363,-79.3104647
+"61 William Cragg Dr, Toronto, ON M3M 1T8","C$899,000",3 bds2 ba- House for sale,899000,3,2,43.7229334,-79.5060312
+"43 Lonborough Ave, Toronto, ON M6M 1X2","C$799,000",2 bds2 ba- House for sale,799000,2,2,43.69380719999999,-79.4690091
+"1342 Lawrence Ave W, Toronto, ON M6L 1A7","C$1,199,000",3 bds2 ba- House for sale,1199000,3,2,43.7097115,-79.4760314
+"517 Donlands Ave, Toronto, ON M4J 3S4","C$1,199,900",3 bds2 ba- House for sale,1199900,3,2,43.6967472,-79.3468857
+"251 Jarvis St #1009, Toronto, ON M5B 0C3","C$489,000",Studio1 ba- Condo for sale,489000,1,1,43.65737670000001,-79.3744501
+"300 Front St W UNIT 810, Toronto, ON M5V 0E9","C$849,000",2 bds2 ba816 sqft- Condo for sale,849000,2,2,43.6441277,-79.38940579999999
+"106 Dovercourt Rd #616, Toronto, ON M6J 0G4","C$1,499,900",2 bds2 ba- Condo for sale,1499900,2,2,43.6432808,-79.422524
+"31 Benstrow Ave, Toronto, ON M9V 2Z7","C$1,299,999",3 bds4 ba- House for sale,1299999,3,4,43.74010699999999,-79.57559909999999
+"80 Quebec Ave #503, Toronto, ON M6P 4B7","C$699,900",1 bd1 ba- Condo for sale,699900,1,1,43.6549287,-79.4687599
+"275 Homewood Ave, Toronto, ON M2R 2N4","C$1,399,000",3 bds2 ba- House for sale,1399000,3,2,43.7872342,-79.4350479
+"3865 Lake Shore Blvd W #1103, Toronto, ON M8W 0A2","C$749,900",3 bds2 ba- Condo for sale,749900,3,2,43.5898237,-79.5451385
+"165 Lascelles Blvd, Toronto, ON M5P 2E7","C$1,895,000",4 bds1 ba- House for sale,1895000,4,1,43.7052548,-79.4033123
+"23 Bramblebrook Ave, Toronto, ON M1V 2G1","C$999,000",3 bds3 ba- House for sale,999000,3,3,43.8158877,-79.28709649999999
+"27 Lincoln Ave, Toronto, ON M6P 1M7","C$1,089,000",2 bds2 ba- House for sale,1089000,2,2,43.6595526,-79.4783064
+"8 Telegram Mews E #1603, Toronto, ON M5V 3Z5","C$1,149,000",2 bds2 ba- Condo for sale,1149000,2,2,43.6404522,-79.39477049999999
+"41 Dovercourt Rd #505, Toronto, ON M6J 0G6","C$959,900",2 bds2 ba- Condo for sale,959900,2,2,43.6415765,-79.42146799999999
+"264 Seaton St #202, Toronto, ON M5A 2T4","C$1,099,000",2 bds1 ba- Condo for sale,1099000,2,1,43.6608843,-79.3707988
+"35 Parsonage Dr, Toronto, ON M1B 4J2","C$799,999",3 bds2 ba- House for sale,799999,3,2,43.8110699,-79.2156409
+"75 Holmstead Ave, Toronto, ON M4B 1T3","C$699,000",2 bds1 ba- House for sale,699000,2,1,43.7095515,-79.297357
+"23 Sheppard Ave E #1204, Toronto, ON M2N 0C8","C$788,000",2 bds2 ba- Condo for sale,788000,2,2,43.7612398,-79.4090037
+"21 Island Rd #30, Toronto, ON M1C 0E4","C$599,000",4 bds3 ba- Townhouse for sale,599000,4,3,43.797075,-79.1418332
+"35 Habitant Dr, Toronto, ON M9M 2N7","C$869,900",4 bds2 ba- House for sale,869900,4,2,43.7411529,-79.5366794
+"28 Nordale Cres, Toronto, ON M6M 3A1","C$1,099,900",4 bds3 ba- House for sale,1099900,4,3,43.70199179999999,-79.49242439999999
+"501 Saint Clair Ave W #1902, Toronto, ON M5P 0A2","C$727,000",1 bd1 ba- Condo for sale,727000,1,1,43.6829978,-79.4178141
+"10 Navy Wharf Ct #3812, Toronto, ON M5V 3V2","C$1,139,800",2 bds2 ba- Condo for sale,1139800,2,2,43.6404514,-79.3919349
+"1131 Steeles Ave W #510, Toronto, ON M2R 3W8","C$612,500",2 bds2 ba- Condo for sale,612500,2,2,43.7907034,-79.4507869
+"10 Northtown Way #709, Toronto, ON M2N 7L4","C$558,000",1 bd1 ba- Condo for sale,558000,1,1,43.7759274,-79.4132893
+"1801 Bayview Ave #610, Toronto, ON M4G 4K2","C$599,900",1 bd1 ba- Condo for sale,599900,1,1,43.7120866,-79.3768779
+"130 Carlton St UNIT 607, Toronto, ON M5A 4K3","C$1,599,000",2 bds2 ba- Condo for sale,1599000,2,2,43.6628119,-79.3758083
+"49 Farrell Ave, Toronto, ON M2R 1C7","C$1,099,000",4 bds5 ba- Townhouse for sale,1099000,4,5,43.7668214,-79.4404425
+"1056 Dufferin St, Toronto, ON M6H 4B6","C$1,049,990",6 bds3 ba- House for sale,1049990,6,3,43.6611005,-79.4360923
+"1485 Birchmount Rd #318, Toronto, ON M1P 0C7","C$599,000",3 bds2 ba- Condo for sale,599000,3,2,43.7574015,-79.288375
+"92 Montressor Dr, Toronto, ON M2P 1Z4","C$2,795,000",3 bds4 ba- House for sale,2795000,3,4,43.7595485,-79.3953315
+"1 Market St #1105, Toronto, ON M5E 0A2","C$549,900",1 bd1 ba- Condo for sale,549900,1,1,43.6468752,-79.3710718
+"100 Mornelle Ct #1094, Toronto, ON M1E 4X2","C$449,900",3 bds2 ba- Condo for sale,449900,3,2,43.7872772,-79.1950138
+"3075 Bridletowne Cir #15, Toronto, ON M1W 1S8","C$588,800",4 bds2 ba- Condo for sale,588800,4,2,43.8000339,-79.32122869999999
+"23 Melva Cres, Toronto, ON M1V 1A4","C$1,188,000",6 bds4 ba- House for sale,1188000,6,4,43.8136458,-79.2768261
+"70 Forest Manor Rd #1912, Toronto, ON M2J 0A9","C$659,990",2 bds2 ba- Condo for sale,659990,2,2,43.7745395,-79.3449495
+"238 Wellesworth Dr, Toronto, ON M9C 4S6","C$1,199,888",3 bds2 ba- House for sale,1199888,3,2,43.65650970000001,-79.5775271
+"210 Placentia Blvd, Toronto, ON M1S 4H4","C$799,000",4 bds3 ba- House for sale,799000,4,3,43.8066258,-79.26164399999999
+"19 Rosebank Dr #1102, Toronto, ON M1B 5Z2","C$669,000",3 bds3 ba- Condo for sale,669000,3,3,43.7915008,-79.2367495
+"25 A Thistle Down Blvd, Toronto, ON M9V 4A6","C$699,000",5 bds4 ba- Condo for sale,699000,5,4,43.7357999,-79.5586763
+"133 Port Royal Trl, Toronto, ON M1V 2H4","C$999,000",6 bds4 ba- House for sale,999000,6,4,43.8158537,-79.2882499
+"159 Dundas St E #1909, Toronto, ON M5B 0A9","C$550,000",1 bd1 ba- Condo for sale,550000,1,1,43.6568285,-79.37501519999999
+"4005 Don Mills Rd #344, Toronto, ON M2H 3J9","C$599,999",3 bds2 ba- Condo for sale,599999,3,2,43.810356,-79.36010639999999
+"25 Grenville St #1201, Toronto, ON M4Y 2X5","C$569,000",2 bds1 ba- Condo for sale,569000,2,1,43.6617585,-79.3846976
+"225 Village Green Sq #703, Toronto, ON M1S 0L7","C$639,000",2 bds2 ba- Condo for sale,639000,2,2,43.7797917,-79.28182509999999
+"64 Talwood Dr, Toronto, ON M3B 2P5","C$1,390,000",4 bds2 ba- House for sale,1390000,4,2,43.7407218,-79.356802
+"175 Hilda Ave #812, Toronto, ON M2M 1V8","C$599,900",3 bds2 ba- Condo for sale,599900,3,2,43.794605,-79.4271802
+"320 Richmond St E #503, Toronto, ON M5A 1P9","C$638,000",2 bds2 ba- Condo for sale,638000,2,2,43.6535819,-79.3687903
+"75 Dalhousie St #810, Toronto, ON M5B 2R9","C$588,500",1 bd1 ba- Condo for sale,588500,1,1,43.6554873,-79.3759283
+"116 Parkmount Rd, Toronto, ON M4J 4V4","C$849,900",2 bds1 ba- House for sale,849900,2,1,43.6800594,-79.3253012
+"1369 Bloor St W #1301, Toronto, ON M6P 4J4","C$699,000",2 bds2 ba- Condo for sale,699000,2,2,43.6570898,-79.4455728
+"1148 Glengrove Ave, Toronto, ON M6B 2K4","C$1,099,000",3 bds2 ba- House for sale,1099000,3,2,43.7071668,-79.463128
+"225 Sherway Gardens Rd #2803, Toronto, ON M9C 0A3","C$500,000",1 bd1 ba- Condo for sale,500000,1,1,43.6089754,-79.55871499999999
+"179 Brighton Ave, Toronto, ON M3H 4E3","C$1,488,000",3 bds3 ba- House for sale,1488000,3,3,43.7586662,-79.4512531
+"25 Carlton St #1202, Toronto, ON M5B 1L4","C$599,000",1 bd1 ba- Condo for sale,599000,1,1,43.6612664,-79.38159279999999
+"50 Scarborough Golf Clu Rd #124, Toronto, ON M1M 3T5","C$450,000",3 bds2 ba- Townhouse for sale,450000,3,2,43.7442856,-79.2095542
+"394 Main St, Toronto, ON M4C 4X8","C$999,900",3 bds2 ba- House for sale,999900,3,2,43.69127719999999,-79.3034706
+"33 Shore Breeze Dr #1105, Toronto, ON M8V 0G1","C$499,900",1 bd1 ba- Condo for sale,499900,1,1,43.6240074,-79.4792379
+"55 Green Lanes Dr, Toronto, ON M8Z 4V8","C$1,249,800",2 bds4 ba- House for sale,1249800,2,4,43.6416512,-79.5243036
+"715 Don Mills Rd #2605, Toronto, ON M3C 1S5","C$425,000",1 bd1 ba- Condo for sale,425000,1,1,43.71054609999999,-79.333697
+"4062 Lawrence Ave #306, Toronto, ON M1E 4V5","C$349,000",3 bds2 ba- Condo for sale,349000,3,2,43.767014,-79.19747579999999
+"4062 Lawrence Ave #306, Toronto, ON M1E 4V5","C$349,000",3 bds2 ba- Condo for sale,349000,3,2,43.767014,-79.19747579999999
+"15 Zorra St #7, Toronto, ON M8Z 0C1","C$725,000",2 bds2 ba- Condo for sale,725000,2,2,43.6212404,-79.5213634
+"121 Sherwood Ave, Toronto, ON M4P 2A6","C$3,295,000",3 bds4 ba- House for sale,3295000,3,4,43.7146636,-79.3935757
+"40 Goodall Dr, Toronto, ON M1B 5E3","C$849,000",3 bds2 ba- House for sale,849000,3,2,43.8187686,-79.2022391
+"226 Galloway Rd, Toronto, ON M1E 1X4","C$899,900",4 bds3 ba- House for sale,899900,4,3,43.767768,-79.1968436
+"30 Meadowglen Pl #LPH2802, Toronto, ON M1G 0A6","C$549,000",1 bd2 ba- Condo for sale,549000,1,2,43.7746779,-79.2305336
+"297 College St #1512, Toronto, ON M5T 0C2","C$675,000",1 bd1 ba- Condo for sale,675000,1,1,43.6575255,-79.4015589
+"397 Front St W SPACE H-1, Toronto, ON M5V 3S1","C$1,298,000",2 bds3 ba- Condo for sale,1298000,2,3,43.6426397,-79.3935863
+"50 Commons Dr, Toronto, ON M1T 1E4","C$1,190,000",3 bds2 ba- House for sale,1190000,3,2,43.7749567,-79.3203035
+"20 Joe Shuster Way #1010, Toronto, ON M6K 0A3","C$579,000",2 bds1 ba- Condo for sale,579000,2,1,43.640128,-79.4243082
+"551 The West Mall #1012, Toronto, ON M9C 1G7","C$475,000",2 bds1 ba- Condo for sale,475000,2,1,43.6524909,-79.5690912
+"119 King St, Toronto, ON M9N 1L6","C$849,900",2 bds2 ba- House for sale,849900,2,2,43.706012,-79.5147844
+"111 Bathurst St #1213, Toronto, ON M5V 0M9","C$585,000",1 bd1 ba- Condo for sale,585000,1,1,43.6448228,-79.40280369999999
+"555 Donlands Ave, Toronto, ON M4J 3S4","C$1,199,000",3 bds4 ba- House for sale,1199000,3,4,43.6972556,-79.34863349999999
+"11 Thorncliffe Park Dr #7, Toronto, ON M4H 1P3","C$595,000",2 bds2 ba- Condo for sale,595000,2,2,43.70402139999999,-79.3490836
+"87 Glen Watford Dr, Toronto, ON M1S 2C6","C$1,388,000",3 bds2 ba- House for sale,1388000,3,2,43.7949211,-79.280265
+"33 University Ave #1601, Toronto, ON M5J 2S7","C$559,900",1 bd2 ba- Condo for sale,559900,1,2,43.6462538,-79.38359969999999
+"2045 Lake Shore Blvd W #3305, Toronto, ON M8V 2Z6","C$2,599,000",3 bds3 ba- Condo for sale,2599000,3,3,43.6315679,-79.4748331
+"5580 Sheppard Ave E #105, Toronto, ON M1B 2L3","C$399,000",1 bd1 ba- Condo for sale,399000,1,1,43.7945926,-79.2378274
+"88 Blue Jays Way #1211, Toronto, ON M5V 0L7","C$538,000",Studio1 ba- Condo for sale,538000,1,1,43.6455046,-79.3924571
+"170 Fort York Blvd #P3-102, Toronto, ON M5V 0E6","C$39,995",Studio-- ba- Condo for sale,39995,,,43.6393686,-79.3995846
+"3 Everson Dr #142, Toronto, ON M2N 7C2","C$669,999",2 bds2 ba- Townhouse for sale,669999,2,2,43.75690729999999,-79.4061906
+"565 Wilson Ave PENTHOUSE 1308W, Toronto, ON M3H 0C6","C$1,099,888",2 bds3 ba- Condo for sale,1099888,2,3,43.7341968,-79.44802419999999
+"170 Cummer Ave, Toronto, ON M2M 2E7","C$2,969,900",4 bds5 ba- House for sale,2969900,4,5,43.7893042,-79.4083201
+"89 Valley Centre Dr, Toronto, ON M1X 1H2","C$865,000",4 bds4 ba- House for sale,865000,4,4,43.8231998,-79.2028067
+"225 Wellesley St E #912, Toronto, ON M4X 1X8","C$599,000",2 bds2 ba- Condo for sale,599000,2,2,43.66741589999999,-79.3725722
+"124 Marion St, Toronto, ON M6R 1E7","C$1,600,000",3 bds1 ba- House for sale,1600000,3,1,43.641527,-79.4458269
+"30 Saint Hildas Ave, Toronto, ON M4N 2P4","C$2,895,000",4 bds5 ba- House for sale,2895000,4,5,43.7182951,-79.399339
+"38 Lissom Cres, Toronto, ON M2R 2P1","C$1,699,000",3 bds4 ba- House for sale,1699000,3,4,43.7856501,-79.44410309999999
+"35 B Butterworth Ave, Toronto, ON M1L 1H2","C$1,450,000",4 bds4 ba- House for sale,1450000,4,4,43.6967524,-79.2714135
+"380 Dixon Rd #2403, Toronto, ON M9R 1T3","C$349,900",1 bd1 ba- Condo for sale,349900,1,1,43.6949961,-79.5567885
+"1331 Queen St E UNIT 507, Toronto, ON M4L 1C6","C$1,200,900",2 bds2 ba- Condo for sale,1200900,2,2,43.663923,-79.3268013
+"1030 Sheppard Ave #614, Toronto, ON M3H 6C1","C$599,888",2 bds2 ba- Condo for sale,599888,2,2,43.7510542,-79.460764
+"37 Wilmar Rd, Toronto, ON M9B 3R8","C$999,000",2 bds2 ba- House for sale,999000,2,2,43.6371808,-79.5430964
+"811 Dovercourt Rd, Toronto, ON M6H 2X4","C$899,000",3 bds2 ba- House for sale,899000,3,2,43.66286849999999,-79.4296659
+"530 Douglas Ave, Toronto, ON M5M 1H5","C$2,949,000",4 bds5 ba- House for sale,2949000,4,5,43.7214497,-79.4280643
+"142 Widdicombe Hill Blvd #522, Toronto, ON M9R 0A9","C$649,000",2 bds2 ba- Townhouse for sale,649000,2,2,43.675729,-79.558544
+"42 Leopold St, Toronto, ON M6K 1J9","C$1,545,000",4 bds3 ba- House for sale,1545000,4,3,43.6384838,-79.4387356
+"15 Brumwell St, Toronto, ON M1C 2K7","C$1,700,000",3 bds4 ba- House for sale,1700000,3,4,43.7894268,-79.1476049
+"452 Scarborough Golf Clu Rd #605, Toronto, ON M1G 1H1","C$439,900",2 bds2 ba- Condo for sale,439900,2,2,43.7548779,-79.2143924
+"26 Norton Ave #1605, Toronto, ON M2N 0H6","C$639,000",2 bds1 ba- Condo for sale,639000,2,1,43.7726149,-79.4127603
+"21 Winding Ct, Toronto, ON M1C 4X6","C$1,499,000",6 bds6 ba- House for sale,1499000,6,6,43.7888335,-79.1635174
+"188 Doris Ave #1514, Toronto, ON M2N 6Z5","C$559,000",1 bd2 ba- Condo for sale,559000,1,2,43.7674356,-79.4106943
+"77 Song Meadoway, Toronto, ON M2H 2T9","C$749,000",5 bds2 ba- Condo for sale,749000,5,2,43.8116186,-79.3563209
+"955 Bay St #302, Toronto, ON M5S 0C6","C$699,900",2 bds2 ba- Condo for sale,699900,2,2,43.6646319,-79.3869529
+"993 Queen St W #207, Toronto, ON M6J 1H2","C$1,150,000",1 bd1 ba- Condo for sale,1150000,1,1,43.6446488,-79.4156165
+"21 Ada Cres, Toronto, ON M1P 4A9","C$939,000",6 bds2 ba- House for sale,939000,6,2,43.7646783,-79.25691239999999
+"65 Glenshaw Cres, Toronto, ON M4B 2E1","C$2,599,000",4 bds5 ba- House for sale,2599000,4,5,43.7089862,-79.3178832
+"38 Lee Center Dr #709, Toronto, ON M1H 3J7","C$499,000",2 bds2 ba- Condo for sale,499000,2,2,43.7817588,-79.2466125
+"22 Saugeen Cres, Toronto, ON M1K 3M9","C$899,900",6 bds4 ba- House for sale,899900,6,4,43.7290232,-79.2646527
+"1470 Midland Ave UNIT 2004, Toronto, ON M1P 4Z4","C$480,000",2 bds2 ba- Condo for sale,480000,2,2,43.75240780000001,-79.26592529999999
+"75 Emmett Ave #503, Toronto, ON M6M 5A7","C$599,900",4 bds2 ba- Condo for sale,599900,4,2,43.687194,-79.5047683
+"36 Park Lawn Rd #2201, Toronto, ON M8V 0E5","C$599,000",2 bds1 ba- Condo for sale,599000,2,1,43.6235931,-79.4845168
+"455 Sentinel Rd #308, Toronto, ON M3J 1V5","C$469,000",2 bds1 ba- Condo for sale,469000,2,1,43.7628776,-79.5000999
+"710 Humberwood Blvd PENTHOUSE 5, Toronto, ON M9W 7J5","C$749,000",4 bds3 ba- Condo for sale,749000,4,3,43.7247822,-79.6160393
+"15 Applewood Ln #92, Toronto, ON M9C 0C1","C$789,999",3 bds3 ba- Townhouse for sale,789999,3,3,43.6505416,-79.5668851
+"40 Rosehill Ave #804, Toronto, ON M4T 1G5","C$1,888,000",3 bds3 ba- Condo for sale,1888000,3,3,43.6868485,-79.3919366
+"142 Barton Ave, Toronto, ON M6G 1R2","C$2,800,000",4 bds5 ba- House for sale,2800000,4,5,43.6668521,-79.4192178
+"7 B Ventnor Ave, Toronto, ON M4C 2Z6","C$1,199,000",3 bds3 ba- House for sale,1199000,3,3,43.6993,-79.3177067
+"25 Greenview Ave #2224, Toronto, ON M2M 0A5","C$649,000",1 bd1 ba- Condo for sale,649000,1,1,43.7804536,-79.4184528
+"714 The West Mall #507, Toronto, ON M9C 4X1","C$549,000",1 bd1 ba- Condo for sale,549000,1,1,43.6568866,-79.57077029999999
+"156 Thistle Down Blvd, Toronto, ON M9V 1K1","C$1,419,000",4 bds2 ba- House for sale,1419000,4,2,43.741058,-79.5507824
+"48 Brenda Cres, Toronto, ON M1K 3C6","C$1,099,000",3 bds3 ba- House for sale,1099000,3,3,43.72037479999999,-79.2590381
+"75 Haslam St, Toronto, ON M1N 3N8","C$799,900",3 bds3 ba- House for sale,799900,3,3,43.7061145,-79.2584285
+"6 Ashbury Ave, Toronto, ON M6E 1V7","C$799,999",3 bds3 ba- House for sale,799999,3,3,43.6907094,-79.44029239999999
+"10 Parkway Forest Dr #1012, Toronto, ON M2J 1L3","C$489,900",2 bds2 ba- Condo for sale,489900,2,2,43.7699559,-79.3454596
+"7 Mabelle Ave #303, Toronto, ON M9A 0C9","C$516,900",1 bd1 ba- Condo for sale,516900,1,1,43.6464587,-79.52610179999999
+"10 Minton Pl, Toronto, ON M4K 3X6","C$1,297,900",3 bds2 ba- House for sale,1297900,3,2,43.6955511,-79.3514435
+"288 Johnston Ave, Toronto, ON M2N 1H6","C$2,350,000",4 bds5 ba- House for sale,2350000,4,5,43.7562633,-79.4242013
+"17 Zorra St UNIT 1509, Toronto, ON M8Z 0C8","C$499,990",1 bd1 ba- Condo for sale,499990,1,1,43.621263,-79.52130679999999
+"32 Bailey Cres, Toronto, ON M1G 2P3","C$879,000",3 bds3 ba- House for sale,879000,3,3,43.7704718,-79.2287482
+"93 Merkley Sq, Toronto, ON M1G 2Y5","C$999,900",4 bds3 ba- House for sale,999900,4,3,43.7738909,-79.2141633
+"8 Silverbell Grv #1004, Toronto, ON M1B 4Z3","C$399,000",2 bds2 ba- Condo for sale,399000,2,2,43.8048615,-79.21669709999999
+"65 Ernest Ave, Toronto, ON M2J 3T4","C$1,298,800",3 bds2 ba- House for sale,1298800,3,2,43.7900553,-79.33742629999999
+"20 Bridesburg Dr, Toronto, ON M9R 2K3","C$1,400,000",8 bds5 ba- House for sale,1400000,8,5,43.6961598,-79.5624359
+"405 Nairn Ave, Toronto, ON M6E 4J2","C$799,000",2 bds1 ba- House for sale,799000,2,1,43.6899396,-79.4537187
+"6 Parmbelle Cres, Toronto, ON M3A 3G6","C$2,998,000",3 bds3 ba- House for sale,2998000,3,3,43.7524841,-79.34005259999999
+"90 Park Lawn Rd #3101, Toronto, ON M8Y 0B6","C$1,575,000",3 bds3 ba- Condo for sale,1575000,3,3,43.6243974,-79.4852196
+"4968 Yonge St W #510, Toronto, ON M2N 7G9","C$598,000",2 bds1 ba- Condo for sale,598000,2,1,43.7654169,-79.4125167
+"1173 Dundas St E #228, Toronto, ON M4M 3P1","C$1,500,000",1 bd2 ba- Condo for sale,1500000,1,2,43.6644818,-79.3416879
+"103 The Queensway Ave #706, Toronto, ON M6S 5B3","C$499,000",1 bd1 ba- Condo for sale,499000,1,1,43.6362926,-79.47046279999999
+"64 Zezel Way, Toronto, ON M1P 2X1","C$699,900","4 bds4 ba1,650 sqft- Townhouse for sale",699900,4,4,43.76636939999999,-79.27551799999999
+"1121 Bay St #1603, Toronto, ON M5S 3L9","C$973,000",2 bds2 ba- Condo for sale,973000,2,2,43.6679864,-79.3885486
+"33 Mill St UNIT 2805, Toronto, ON M5A 3R3","C$1,299,999",2 bds2 ba- Condo for sale,1299999,2,2,43.65036050000001,-79.360919
+"29 Singer Ct #2915, Toronto, ON M2K 0B3","C$589,900",1 bd1 ba- Condo for sale,589900,1,1,43.7692161,-79.3688897
+"2 Rean Dr #409, Toronto, ON M2K 3B8","C$515,000",1 bd1 ba- Condo for sale,515000,1,1,43.7656347,-79.3831635
+"365 Dundas St E #219, Toronto, ON M5A 4R9","C$474,900",Studio1 ba- Condo for sale,474900,1,1,43.6585132,-79.3686553
+"505 Lansdowne Ave, Toronto, ON M6H 3Y2","C$1,198,000",3 bds3 ba- House for sale,1198000,3,3,43.6550456,-79.4413003
+"92 Futura Dr, Toronto, ON M3N 2L7","C$699,900",3 bds2 ba- House for sale,699900,3,2,43.7501803,-79.5107286
+"2212 Lake Shore Blvd PENTHOUSE 4802, Toronto, ON M8V 0C2","C$1,288,888",2 bds2 ba- Condo for sale,1288888,2,2,43.6225855,-79.4824892
+"1356 Bathurst St #10, Toronto, ON M5R 3H7","C$1,445,000",3 bds3 ba- Townhouse for sale,1445000,3,3,43.67976729999999,-79.41725269999999
+"75 Graydon Hall Dr UNIT 805, Toronto, ON M3A 3M5","C$539,900",3 bds2 ba- Condo for sale,539900,3,2,43.764288,-79.3440864
+"64 Glebemount Ave, Toronto, ON M4C 3R6","C$999,900",3 bds2 ba- House for sale,999900,3,2,43.6868682,-79.31887019999999
+"11 E Tranby Ave #E, Toronto, ON M5R 1N4","C$4,100,000",3 bds3 ba- Townhouse for sale,4100000,3,3,43.6731591,-79.3965004
+"761 Bay St #306, Toronto, ON M5G 2R2","C$738,000",1 bd1 ba- Condo for sale,738000,1,1,43.6596493,-79.3849721
+"1 Pemberton Ave #409, Toronto, ON M2M 4L9","C$510,000",1 bd1 ba- Condo for sale,510000,1,1,43.78087420000001,-79.414255
+"70 Torrens Ave, Toronto, ON M4K 2H8","C$899,800",2 bds2 ba- House for sale,899800,2,2,43.6911473,-79.35161149999999
+"28 Olive Ave #301, Toronto, ON M2N 7E6","C$495,000",1 bd1 ba- Condo for sale,495000,1,1,43.77934519999999,-79.4136798
+"55 Michael Dr, Toronto, ON M2H 2A4","C$2,888,000",5 bds7 ba- House for sale,2888000,5,7,43.8041894,-79.36439530000001
+"54 Argyle St, Toronto, ON M6J 1N6","C$1,998,000",3 bds3 ba- House for sale,1998000,3,3,43.6472179,-79.4194046
+"49 Reiner Rd, Toronto, ON M3H 2L3","C$2,699,000",4 bds5 ba- House for sale,2699000,4,5,43.7513871,-79.4412988
+"100 Sorauren Ave, Toronto, ON M6R 2E2","C$1,595,000",3 bds3 ba- House for sale,1595000,3,3,43.6428091,-79.44237489999999
+"37 Newman Ave, Toronto, ON M4C 5A5","C$999,999",4 bds3 ba- House for sale,999999,4,3,43.6944405,-79.29931909999999
+"54 Overture Rd, Toronto, ON M1E 2V9","C$699,000",3 bds2 ba- House for sale,699000,3,2,43.7611944,-79.1995041
+"15 White Pine Ave, Toronto, ON M4B 2Z8","C$1,525,000",3 bds2 ba- House for sale,1525000,3,2,43.7057238,-79.3222402
+"35 Church St #211, Toronto, ON M5E 1T3","C$829,000",1 bd1 ba- Condo for sale,829000,1,1,43.6491415,-79.3738573
+"35 Kings Park Blvd, Toronto, ON M4J 2B7","C$1,090,000",4 bds2 ba- House for sale,1090000,4,2,43.6854334,-79.3450584
+"106 Rochman Blvd, Toronto, ON M1H 1S2","C$799,999",3 bds3 ba- House for sale,799999,3,3,43.7630355,-79.23145869999999
+"1255 Bridletowne Cir #9, Toronto, ON M1W 0A5","C$799,000",4 bds5 ba- House for sale,799000,4,5,43.7940587,-79.31162690000001
+"4 Commonwealth Ave, Toronto, ON M1K 4J8","C$799,000",2 bds2 ba- House for sale,799000,2,2,43.72765769999999,-79.2541194
+"578 Ontario St, Toronto, ON M4X 1M7","C$1,700,000",4 bds3 ba- Townhouse for sale,1700000,4,3,43.6668697,-79.3720835
+"65 Bremner Blvd #1106, Toronto, ON M5J 0A7","C$609,900",1 bd1 ba- Condo for sale,609900,1,1,43.6429418,-79.38055709999999
+"5 Collingsbrook Blvd, Toronto, ON M1W 1L5","C$999,900",4 bds4 ba- House for sale,999900,4,4,43.7894714,-79.3227263
+"260 Seneca Hill Dr #1812, Toronto, ON M2J 4S6","C$399,900",2 bds1 ba- Condo for sale,399900,2,1,43.7901315,-79.3573445
+"1705 Mccowan Rd #303, Toronto, ON M1S 4L2","C$449,000",2 bds1 ba- Condo for sale,449000,2,1,43.7886117,-79.2572647
+"70 Zezel Way, Toronto, ON M1P 2X1","C$788,000",4 bds4 ba- Townhouse for sale,788000,4,4,43.7664916,-79.2755829
+"183 Yorkview Dr, Toronto, ON M2R 1K2","C$1,678,000",7 bds3 ba- House for sale,1678000,7,3,43.7724832,-79.4409726
+"1420 Dupont St #712, Toronto, ON M6H 0C2","C$549,000",2 bds1 ba- Condo for sale,549000,2,1,43.6667421,-79.4482712
+"70 Zezel Way, Toronto, ON M1P 2X1","C$788,000",4 bds4 ba- Townhouse for sale,788000,4,4,43.7664916,-79.2755829
+"183 Yorkview Dr, Toronto, ON M2R 1K2","C$1,678,000",7 bds3 ba- House for sale,1678000,7,3,43.7724832,-79.4409726
+"1420 Dupont St #712, Toronto, ON M6H 0C2","C$549,000",2 bds1 ba- Condo for sale,549000,2,1,43.6667421,-79.4482712
+"1705 Mccowan Rd #303, Toronto, ON M1S 4L2","C$449,000",2 bds1 ba- Condo for sale,449000,2,1,43.7886117,-79.2572647
+"4727 Sheppard Ave E UNIT 112, Toronto, ON M1S 5B3","C$549,900",2 bds2 ba- Condo for sale,549900,2,2,43.7894966,-79.25357919999999
+"33 Charles St E #907, Toronto, ON M4Y 0A2","C$648,999",1 bd1 ba570 sqft- Condo for sale,648999,1,1,43.6685778,-79.3844795
+"1596 Pharmacy Ave, Toronto, ON M1R 2K7","C$988,000",3 bds2 ba- House for sale,988000,3,2,43.7649929,-79.3130717
+"62 Forest Manor Rd UNIT 904, Toronto, ON M2J 0B6","C$599,900",1 bd1 ba- Condo for sale,599900,1,1,43.7738988,-79.34541159999999
+"2387 Weston Rd, Toronto, ON M9N 1Z8","C$995,000",-- sqft lot- Lot / Land for sale,995000,,,43.7065856,-79.53242
+"41 Howarth Ave, Toronto, ON M1R 1H3","C$1,929,000",4 bds5 ba- House for sale,1929000,4,5,43.7407501,-79.3063933
+"2787 Weston Rd, Toronto, ON M9M 0A9","C$1,599,913",4 bds4 ba- House for sale,1599913,4,4,43.718618,-79.5374233
+"38 Elm St #2800, Toronto, ON M5G 2K5","C$649,900",1 bd1 ba- Condo for sale,649900,1,1,43.6577796,-79.38341299999999
+"24 Harnish Cres, Toronto, ON M2M 2C1","C$1,789,000",3 bds3 ba- House for sale,1789000,3,3,43.7849031,-79.4068331
+"12 Saint Clair Ave #3409, Toronto, ON M1L 1W6","C$699,000",3 bds3 ba- Condo for sale,699000,3,3,43.7133371,-79.27405259999999
+"295 Adelaide St W #3406, Toronto, ON M5V 0L4","C$659,000",1 bd1 ba- Condo for sale,659000,1,1,43.64767519999999,-79.390532
+"246 Edenbridge Dr, Toronto, ON M9A 3H3","C$3,199,999",4 bds4 ba- House for sale,3199999,4,4,43.6797168,-79.5102519
+"5 Rowntree Rd #405, Toronto, ON M9V 5G9","C$499,900",3 bds2 ba- Condo for sale,499900,3,2,43.7494792,-79.5807578
+"8 Eglinton Ave E #4307, Toronto, ON M4P 0C1","C$599,800",1 bd1 ba- Condo for sale,599800,1,1,43.7073036,-79.397897
+"523 B Royal York Rd, Toronto, ON M8Y 2S5","C$1,269,900","3 bds4 ba2,357 sqft- Townhouse for sale",1269900,3,4,43.6240199,-79.50124199999999
+"5 Rowntree Rd #601, Toronto, ON M9V 5G9","C$589,999",2 bds2 ba- Condo for sale,589999,2,2,43.7494792,-79.5807578
+"8 Meadowglade Cres, Toronto, ON M2J 1C7","C$1,888,888",4 bds4 ba- House for sale,1888888,4,4,43.7711434,-79.35054
+"1 Leila Ln #1209, Toronto, ON M6A 2M7","C$468,000",1 bd1 ba- Condo for sale,468000,1,1,43.7241089,-79.4454013
+"1218 Dufferin St, Toronto, ON M6H 4C1","C$1,399,888",5 bds5 ba- House for sale,1399888,5,5,43.6659084,-79.43816
+"21 Iceboat Ter #2708, Toronto, ON M5V 4A9","C$719,800",2 bds1 ba- Condo for sale,719800,2,1,43.64049809999999,-79.3974313
+"340 Dixon Rd #2111, Toronto, ON M9R 1T1","C$399,999",3 bds2 ba- Condo for sale,399999,3,2,43.6960392,-79.55411959999999
+"619 Avenue Rd #1404, Toronto, ON M4V 2K6","C$2,500,000",2 bds2 ba- Condo for sale,2500000,2,2,43.6900675,-79.40229339999999
+"35 Orlando Blvd, Toronto, ON M1R 3N5","C$1,998,000",5 bds5 ba- House for sale,1998000,5,5,43.7572805,-79.30580119999999
+"181 Village Green Sq #214, Toronto, ON M1S 0K6","C$439,900",1 bd1 ba- Condo for sale,439900,1,1,43.77897309999999,-79.28129059999999
+"125 Village Green Sq UNIT 704, Toronto, ON M1S 0G3","C$598,000",2 bds2 ba- Condo for sale,598000,2,2,43.7775233,-79.2812387
+"4968 Yonge St UNIT 709, Toronto, ON M2N 7G9","C$588,800",2 bds1 ba- Condo for sale,588800,2,1,43.7654169,-79.4125167
+"22 Wellesley St E #702, Toronto, ON M4Y 1G3","C$599,000",2 bds1 ba- Condo for sale,599000,2,1,43.6654816,-79.3832754
+"121 Mcmahon Dr #3315, Toronto, ON M2K 0C1","C$499,000",2 bds1 ba- Condo for sale,499000,2,1,43.7676473,-79.3706957
+"28 Wellesley St E #2510, Toronto, ON M4Y 0C4","C$399,900",Studio1 ba- Condo for sale,399900,1,1,43.6655193,-79.3829212
+"28 Olive Ave #803, Toronto, ON M2N 7E6","C$497,000",1 bd1 ba- Condo for sale,497000,1,1,43.77934519999999,-79.4136798
+"38 Brubeck Rd, Toronto, ON M9M 1W7","C$849,900",3 bds2 ba- House for sale,849900,3,2,43.746828,-79.5591859
+"57 Finch Ave W #13, Toronto, ON M2N 2H3","C$952,000",2 bds3 ba- Townhouse for sale,952000,2,3,43.778484,-79.42046069999999
+"51 Lonborough Ave, Toronto, ON M6M 1X2","C$789,000",2 bds2 ba- House for sale,789000,2,2,43.6936915,-79.46943879999999
+"40 Roxaline St, Toronto, ON M9P 2Y9","C$950,000",3 bds2 ba- House for sale,950000,3,2,43.6978926,-79.5304219
+"12 A York St #3202, Toronto, ON M5J 0E4","C$888,000",2 bds2 ba- Condo for sale,888000,2,2,43.6417442,-79.3819559
+"26 Oxhorn Rd, Toronto, ON M1C 3L5","C$899,000",3 bds3 ba- House for sale,899000,3,3,43.7845046,-79.1323796
+"202 Mckee Ave, Toronto, ON M2N 4C8","C$2,390,000",4 bds5 ba- House for sale,2390000,4,5,43.77599910000001,-79.4010441
+"26 Whispering Willow Ptwy, Toronto, ON M1B 4A7","C$699,000",3 bds2 ba- House for sale,699000,3,2,43.8112842,-79.2131313
+"20 Richardson St #3110, Toronto, ON M5A 0S6","C$900,000",2 bds2 ba- Condo for sale,900000,2,2,43.645568,-79.3686869
+"188 Bonis Ave #TOWNHOUSE, Toronto, ON M1T 3W2","C$639,000",3 bds3 ba- Townhouse for sale,639000,3,3,43.7863551,-79.2915357
+"8 Mondeo Dr N #415, Toronto, ON M1P 5C7","C$599,000",2 bds2 ba- Condo for sale,599000,2,2,43.7645573,-79.288366
+"80 Orchid Place Dr UNIT 211, Toronto, ON M1B 0C4","C$379,900",1 bd1 ba- Condo for sale,379900,1,1,43.7936287,-79.2358232
+"16 Bonnycastle St #4004, Toronto, ON M5A 0C9","C$1,750,000",2 bds6 ba- Condo for sale,1750000,2,6,43.6460855,-79.3648886
+"80 Orchid Place Dr #106, Toronto, ON M1B 0C4","C$499,999",2 bds2 ba- Condo for sale,499999,2,2,43.7936287,-79.2358232
+"311 Front 55 St E, Toronto, ON M5E 1B3","C$799,900",1 bd2 ba- Condo for sale,799900,1,2,43.6434917,-79.3892126
+"8 Ivy Ave, Toronto, ON M4L 2H7","C$899,000",3 bds1 ba- House for sale,899000,3,1,43.672694,-79.33384029999999
+"4064 Lawrence Ave E #211, Toronto, ON M1E 4V6","C$399,900",3 bds3 ba- Condo for sale,399900,3,3,43.7673558,-79.1981438
+"290 Adelaide St W #2809, Toronto, ON M5A 1N1","C$579,000",1 bd1 ba- Condo for sale,579000,1,1,43.6480809,-79.3910262
+"38 Camberley Ct, Toronto, ON M1B 2S6","C$799,000",3 bds2 ba- House for sale,799000,3,2,43.8041619,-79.2045559
+"45 Charles St E #909, Toronto, ON M4Y 0B8","C$749,000",1 bd2 ba- Condo for sale,749000,1,2,43.6689111,-79.383977
+"22 Donalda Cres, Toronto, ON M1S 1N6","C$2,280,000",4 bds5 ba- House for sale,2280000,4,5,43.7863135,-79.2812086
+"65 Blackwell Ave, Toronto, ON M1B 1E1","C$568,000",3 bds2 ba- Condo for sale,568000,3,2,43.8043661,-79.2205197
+"235 Grandravine Dr #1601, Toronto, ON M3N 1J2","C$299,900",1 bd1 ba- Condo for sale,299900,1,1,43.748583,-79.5059285
+"148 Symons St, Toronto, ON M8V 1V2","C$889,900",3 bds2 ba- House for sale,889900,3,2,43.6070555,-79.4981298
+"91 Saint Andrews Blvd, Toronto, ON M9R 1W4","C$1,199,000",3 bds3 ba- House for sale,1199000,3,3,43.6984483,-79.5599708
+"58 Orchard View Blvd UNIT 414, Toronto, ON M4R 0A2","C$879,000",2 bds2 ba- Condo for sale,879000,2,2,43.7081369,-79.4005574
+"18 Red Fox Pl, Toronto, ON M1B 0A8","C$799,000",3 bds3 ba- Townhouse for sale,799000,3,3,43.8079481,-79.1801413
+"628 Fleet St #424, Toronto, ON M5V 1A8","C$880,000",2 bds2 ba- Condo for sale,880000,2,2,43.6361766,-79.4033006
+"11 Becky Cheung Ct, Toronto, ON M2M 2E4","C$2,969,900",4 bds5 ba- House for sale,2969900,4,5,43.7898072,-79.4086011
+"427 Annette St, Toronto, ON M6P 1R8","C$1,799,000","4 bds3 ba2,041 sqft- House for sale",1799000,4,3,43.6605292,-79.47690109999999
+"1331 Queen St E UNIT 502, Toronto, ON M4L 1C6","C$839,900",1 bd1 ba- Condo for sale,839900,1,1,43.663923,-79.3268013
+"386 Yonge St #712, Toronto, ON M5B 0A5","C$699,000",1 bd2 ba- Condo for sale,699000,1,2,43.6596706,-79.3825726
+"2662 Bloor St W #308, Toronto, ON M8X 2Z7","C$999,999",2 bds2 ba- Condo for sale,999999,2,2,43.6496254,-79.4944589
+"5 Vicora Linkway #402, Toronto, ON M3C 1A5","C$519,900",2 bds1 ba- Condo for sale,519900,2,1,43.71179799999999,-79.32414539999999
+"35 Hollywood Ave #1809, Toronto, ON M2N 0A9","C$768,000",2 bds2 ba- Condo for sale,768000,2,2,43.7656295,-79.410051
+"125 Royal York Rd, Toronto, ON M8V 2T9","C$849,000",2 bds1 ba- House for sale,849000,2,1,43.6091428,-79.4951787
+"4725 Sheppard Ave E #109, Toronto, ON M1S 5B2","C$549,900",2 bds2 ba- Condo for sale,549900,2,2,43.7900849,-79.25455509999999
+"628 Fleet St #2802, Toronto, ON M5V 1A8","C$1,199,000",2 bds2 ba- Condo for sale,1199000,2,2,43.6361766,-79.4033006
+"1338 York Mills Rd #1606, Toronto, ON M3A 3M3","C$484,800",2 bds1 ba- Condo for sale,484800,2,1,43.762966,-79.3208819
+"340 Dixon Rd #102, Toronto, ON M9R 1T1","C$370,000",2 bds1 ba- Condo for sale,370000,2,1,43.6960392,-79.55411959999999
+"2 Anndale Dr #807, Toronto, ON M2N 0G5","C$799,000",2 bds2 ba- Condo for sale,799000,2,2,43.7607405,-79.4084851
+"41 Markbrook Ln N #910, Toronto, ON M9V 5E6","C$549,900",2 bds2 ba- Condo for sale,549900,2,2,43.7583721,-79.5864619
+"1918 Gerrard St E, Toronto, ON M4L 2C1","C$1,799,000",3 bds4 ba- House for sale,1799000,3,4,43.6806303,-79.31179259999999
+"78 Corbett Ave, Toronto, ON M6N 1V1","C$889,900",2 bds2 ba- House for sale,889900,2,2,43.6711309,-79.4904912
+"1 Bloor St E #512, Toronto, ON M4W 0A8","C$2,085,000",2 bds3 ba- Condo for sale,2085000,2,3,43.67015869999999,-79.38624620000002
+"26 Olive Ave #LPH-11, Toronto, ON M2N 7G7","C$619,000",1 bd1 ba- Condo for sale,619000,1,1,43.7793207,-79.4137118
+"633 Bay St #808, Toronto, ON M5G 2G4","C$688,000",1 bd2 ba- Condo for sale,688000,1,2,43.6569087,-79.38356739999999
+"160 Nipigon Ave, Toronto, ON M2M 2W4","C$1,579,000",3 bds3 ba- House for sale,1579000,3,3,43.8001058,-79.4075616
+"50 Lotherton Ptwy #608, Toronto, ON M6B 2G7","C$369,900",2 bds1 ba- Condo for sale,369900,2,1,43.7058451,-79.46703149999999
+"50 Ames Cir, Toronto, ON M3B 3C1","C$2,188,000",4 bds3 ba- House for sale,2188000,4,3,43.7502389,-79.36844119999999
+"10 Valdor Dr, Toronto, ON M1V 1R4","C$950,000",6 bds3 ba- House for sale,950000,6,3,43.8101902,-79.2878755
+"75 Queens Wharf Rd #2201, Toronto, ON M5V 0J8","C$1,029,880",2 bds2 ba- Condo for sale,1029880,2,2,43.6384793,-79.3980847
+"8 Sego Royalway Way, Toronto, ON M2H 1L4","C$699,000",3 bds2 ba- Condo for sale,699000,3,2,43.7993244,-79.35508759999999
+"7 Aldershot Cres #5, Toronto, ON M2P 1Z9","C$699,000",2 bds2 ba- Condo for sale,699000,2,2,43.7546289,-79.4045871
+"435 Richmond St W #1401, Toronto, ON M5V 0N3","C$708,000",2 bds1 ba- Condo for sale,708000,2,1,43.64762890000001,-79.3968573
+"44 Tilbury Dr, Toronto, ON M3K 1W6","C$888,000",4 bds2 ba- House for sale,888000,4,2,43.7320199,-79.48038
+"8 Mercer St #604, Toronto, ON M5V 0C4","C$639,000",1 bd1 ba- Condo for sale,639000,1,1,43.6459498,-79.3897558
+"8 Conland Ave, Toronto, ON M6A 2R9","C$2,588,000",7 bds7 ba- House for sale,2588000,7,7,43.7172583,-79.45340209999999
+"8 Winlock Park, Toronto, ON M2M 1Z2","C$2,150,000",8 bds5 ba- House for sale,2150000,8,5,43.7851694,-79.3991059
+"36 Dixfield Dr, Toronto, ON M9C 4J1","C$1,150,000",4 bds2 ba- House for sale,1150000,4,2,43.6582345,-79.57486159999999
+"13 San Robertoway, Toronto, ON M3L 2J4","C$677,888",4 bds3 ba- Condo for sale,677888,4,3,43.7412566,-79.51223689999999
+"153 William Duncan Rd #1, Toronto, ON M3K 0B9","C$549,900",2 bds1 ba- Condo for sale,549900,2,1,43.7361514,-79.4755686
+"35 Lejune Rd, Toronto, ON M1T 2S6","C$998,000",3 bds2 ba- House for sale,998000,3,2,43.7809787,-79.2893433
+"60 Grandravine Dr #6, Toronto, ON M3J 1B1","C$679,000",3 bds3 ba- Townhouse for sale,679000,3,3,43.7529876,-79.4888842
+"29 Rosita Cres, Toronto, ON M1L 1X7","C$899,900",3 bds2 ba- House for sale,899900,3,2,43.7124482,-79.2893859
+"65 Harbour Sq #1001, Toronto, ON M5J 2L4","C$1,685,000",2 bds2 ba- Condo for sale,1685000,2,2,43.6400545,-79.3787285
+"18 Rean Dr #312, Toronto, ON M2K 0C7","C$598,000",1 bd2 ba- Condo for sale,598000,1,2,43.7672411,-79.3832479
+"4 Park Vis #802, Toronto, ON M4B 3M8","C$499,900",1 bd1 ba- Condo for sale,499900,1,1,43.69823270000001,-79.29955629999999
+"115 Mcmahon Dr #3706, Toronto, ON M2K 0C2","C$498,000",1 bd1 ba- Condo for sale,498000,1,1,43.7669863,-79.37104200000002
+"24 Ranee Ave, Toronto, ON M6A 1M6","C$2,090,000",4 bds5 ba- House for sale,2090000,4,5,43.7267884,-79.43333609999999
+"373 Front St #310, Toronto, ON M5V 3R7","C$815,000",2 bds1 ba- Condo for sale,815000,2,1,43.6429328,-79.3921472
+"660 Eglinton Ave W #208, Toronto, ON M5N 1C3","C$498,000",1 bd1 ba- Condo for sale,498000,1,1,43.7026477,-79.419612
+"4 Kenton Dr, Toronto, ON M2R 2H7","C$1,299,900",3 bds2 ba- House for sale,1299900,3,2,43.7783519,-79.4436175
+"113 Redgrave Dr, Toronto, ON M9R 3V4","C$888,888",4 bds3 ba- House for sale,888888,4,3,43.6794121,-79.5702879
+"60 Stevenson Rd #1408, Toronto, ON M9V 2B4","C$549,999",3 bds2 ba- Condo for sale,549999,3,2,43.74390349999999,-79.58674189999999
+"13 San Robertoway #12, Toronto, ON M3L 2J4","C$677,888",3 bds3 ba- Townhouse for sale,677888,3,3,43.7412566,-79.51223689999999
+"60 Monclova Rd, Toronto, ON M3M 0A6","C$999,000",3 bds4 ba- House for sale,999000,3,4,43.73107330000001,-79.50923879999999
+"20 Richardson St #919, Toronto, ON M5A 0S6","C$1,049,900",2 bds2 ba- Condo for sale,1049900,2,2,43.645568,-79.3686869
+"4 Tamola Park Ct, Toronto, ON M9L 2L1","C$1,109,990",3 bds3 ba- Townhouse for sale,1109990,3,3,43.653226,-79.3831843
+"29 Fundy Bay Blvd #45, Toronto, ON M1W 3A2","C$829,990",3 bds2 ba- Townhouse for sale,829990,3,2,43.81002429999999,-79.312629
+"82 Dell Park Ave, Toronto, ON M6B 2T8","C$2,299,000",4 bds6 ba- House for sale,2299000,4,6,43.716424,-79.4363748
+"600 Fleet St #505, Toronto, ON M5V 1B7","C$439,000",Studio1 ba- Condo for sale,439000,1,1,43.63699260000001,-79.4003535
+"100 Western Battery Rd #LPH05, Toronto, ON M6K 3S2","C$699,990",2 bds2 ba- Condo for sale,699990,2,2,43.639949,-79.41581870000002
+"2150 Lawrence Ave N #105, Toronto, ON M1R 3A7","C$525,000",2 bds2 ba- Condo for sale,525000,2,2,43.7475445,-79.2859197
+"63 Varsity Rd, Toronto, ON M6S 4N7","C$1,249,800",3 bds3 ba- House for sale,1249800,3,3,43.6607657,-79.4967894
+"3265 Lawrence Ave E, Toronto, ON M1H 1A5","C$799,000",3 bds2 ba- House for sale,799000,3,2,43.7566925,-79.23871489999999
+"16 Brookridge Dr, Toronto, ON M1P 3M1","C$899,900",3 bds2 ba- House for sale,899900,3,2,43.7591604,-79.2673806
+"340 Dixon Rd #2107, Toronto, ON M9R 1T1","C$409,000",3 bds2 ba- Condo for sale,409000,3,2,43.6960392,-79.55411959999999
+"15 Torrance Rd #504, Toronto, ON M1J 3K2","C$368,000",1 bd1 ba- Condo for sale,368000,1,1,43.74066860000001,-79.2350191
+"25 Oxley St #805, Toronto, ON M5V 2J5","C$699,900",1 bd1 ba- Condo for sale,699900,1,1,43.6462529,-79.3944679
+"32 Sentinel Rd #11, Toronto, ON M3M 2Y8","C$568,000",3 bds2 ba- Townhouse for sale,568000,3,2,43.7450269,-79.4926835
+"63 A Roseland Dr, Toronto, ON M8W 1Y4","C$1,149,000","3 bds3 ba1,250 sqft- House for sale",1149000,3,3,43.5988,-79.54903
+"384 Rimilton Ave, Toronto, ON M8W 2G2","C$1,399,500",3 bds1 ba- House for sale,1399500,3,1,43.60610339999999,-79.5374023
+"176 Cocksfield Ave, Toronto, ON M3H 3T5","C$1,549,900",3 bds2 ba- House for sale,1549900,3,2,43.7544253,-79.451318
+"118 Finch Ave W #3, Toronto, ON M2N 7G2","C$699,999",3 bds3 ba- Condo for sale,699999,3,3,43.77766039999999,-79.425983
+"330 Dixon Rd W #2303, Toronto, ON M9R 1S9","C$399,000",1 bd1 ba- Condo for sale,399000,1,1,43.6959828,-79.55309629999999
+"81 Navy Wharf Ct #602, Toronto, ON M5V 3S2","C$692,000",1 bd1 ba- Condo for sale,692000,1,1,43.6413424,-79.3914198
+"75 Queens Wharf Rd #811, Toronto, ON M5V 0J8","C$575,000",1 bd1 ba- Condo for sale,575000,1,1,43.6384793,-79.3980847
+"840 Queens Plate Dr UNIT 1212, Toronto, ON M9W 0E7","C$469,900",2 bds2 ba- Condo for sale,469900,2,2,43.7204262,-79.6034454
+"955 Oconnor Dr #309, Toronto, ON M4B 2S7","C$589,900",2 bds2 ba- Condo for sale,589900,2,2,43.7083427,-79.3105104
+"1 Massey Sq #2416, Toronto, ON M4C 5L4","C$469,000",2 bds1 ba- Condo for sale,469000,2,1,43.696526,-79.294243
+"18 Parkview Ave #1107, Toronto, ON M2N 7H7","C$699,000",2 bds2 ba- Condo for sale,699000,2,2,43.7712971,-79.41284739999999
+"11 Waterbridge Way, Toronto, ON M1C 5C5","C$1,299,000",4 bds3 ba- House for sale,1299000,4,3,43.7720616,-79.13956619999999
+"2 Sonic Way #2305, Toronto, ON M3C 0P2","C$699,900",2 bds2 ba- Condo for sale,699900,2,2,43.7195387,-79.3366542
+"35 Ormskirk Ave #601, Toronto, ON M6S 1A8","C$740,000",3 bds1 ba- Condo for sale,740000,3,1,43.63913,-79.474828
+"1131 Steeles Ave W #1204, Toronto, ON M2R 3W8","C$710,000",2 bds2 ba- Condo for sale,710000,2,2,43.7907034,-79.4507869
+"65 Kingsdown Dr, Toronto, ON M1K 3B9","C$899,999",7 bds4 ba- House for sale,899999,7,4,43.7412129,-79.27267359999999
+"1666 Queen St E #12, Toronto, ON M4L 1G3","C$769,900",3 bds2 ba- Townhouse for sale,769900,3,2,43.6671529,-79.3140749
+"29 Sonic Way #30, Toronto, ON M3C 0P3","C$1,129,900",3 bds3 ba- Townhouse for sale,1129900,3,3,43.71926,-79.33587
+"26 Sonic Way #15, Toronto, ON M3C 0P3","C$999,999",3 bds3 ba- Townhouse for sale,999999,3,3,43.719817,-79.3361347
+"1135 Royal York Rd #501, Toronto, ON M9A 0C3","C$748,888",2 bds2 ba850 sqft- Condo for sale,748888,2,2,43.6601448,-79.5161415
+"207 Pemberton Ave, Toronto, ON M2M 1Y9","C$2,899,000",5 bds7 ba- House for sale,2899000,5,7,43.7835613,-79.401471
+"105 Mccaul St #805, Toronto, ON M5T 2X4","C$529,999",2 bds1 ba- Condo for sale,529999,2,1,43.65367380000001,-79.3908898
+"65 Huntingdale Blvd PENTHOUSE 1, Toronto, ON M1W 2P1","C$550,000",2 bds2 ba- Condo for sale,550000,2,2,43.7951768,-79.3243677
+"63 Mcgillivray Ave, Toronto, ON M5M 2Y3","C$3,195,000",4 bds5 ba- House for sale,3195000,4,5,43.7367038,-79.42728149999999
+"365 Church St UNIT 904, Toronto, ON M5B 0B5","C$535,000",Studio1 ba- Condo for sale,535000,1,1,43.6610459,-79.3787591
+"59 Annie Craig Dr #3701, Toronto, ON M8V 0C4","C$1,998,000",1 bd2 ba- Condo for sale,1998000,1,2,43.6249692,-79.47822099999999
+"220 Victoria St UNIT 1606, Toronto, ON M5B 2R6","C$750,000",3 bds2 ba- Condo for sale,750000,3,2,43.65485839999999,-79.3792134
+"15 Grenville St #5007, Toronto, ON M4Y 0B9","C$688,800",1 bd1 ba- Condo for sale,688800,1,1,43.66186140000001,-79.3841461
+"11 Saint Joseph St #311, Toronto, ON M4Y 3G4","C$999,900",2 bds2 ba- Condo for sale,999900,2,2,43.6657429,-79.3861318
+"365 Princess Ave, Toronto, ON M2N 3S7","C$2,998,000",7 bds7 ba- House for sale,2998000,7,7,43.7724315,-79.3932722
+"6 Sheva Ct, Toronto, ON M1K 3P9","C$999,900",6 bds3 ba- House for sale,999900,6,3,43.7291964,-79.2595849
+"103 Carrera Blvd, Toronto, ON M1P 5C4","C$888,000",3 bds4 ba- Townhouse for sale,888000,3,4,43.76663019999999,-79.291429
+"6 Sheva Ct, Toronto, ON M1K 3P9","C$999,900",6 bds3 ba- House for sale,999900,6,3,43.7291964,-79.2595849
+"138 Bonis Ave #725, Toronto, ON M1T 3V9","C$869,000",3 bds2 ba- Condo for sale,869000,3,2,43.7857547,-79.2945701
+"220 Victoria St UNIT 1606, Toronto, ON M5B 2R6","C$750,000",3 bds2 ba- Condo for sale,750000,3,2,43.65485839999999,-79.3792134
+"51 Lower Simcoe St #1802, Toronto, ON M5J 3A2","C$625,000",1 bd1 ba- Condo for sale,625000,1,1,43.6421819,-79.3836628
+"1 Kirby Rd, Toronto, ON M3L 1B5","C$1,099,000",3 bds3 ba- House for sale,1099000,3,3,43.7203911,-79.5142824
+"199 Richmond St W #808, Toronto, ON M5V 0H4","C$629,999",1 bd1 ba- Condo for sale,629999,1,1,43.6495729,-79.3880901
+"23 Crusader St, Toronto, ON M1H 1E1","C$1,200,000",3 bds3 ba- House for sale,1200000,3,3,43.7566691,-79.23309739999999
+"10 Yonge St #1106, Toronto, ON M5E 1R4","C$679,000",1 bd1 ba- Condo for sale,679000,1,1,43.6424869,-79.37541740000002
+"30 Shore Breeze Dr #535, Toronto, ON M8V 0E1","C$579,900",1 bd1 ba- Condo for sale,579900,1,1,43.62377619999999,-79.47963299999999
+"105 22nd St, Toronto, ON M8V 3M5","C$1,549,999",3 bds4 ba- House for sale,1549999,3,4,43.6009122,-79.52261170000001
+"67 Frederick Tisdale Dr, Toronto, ON M3K 0C5","C$1,325,000",5 bds5 ba- Townhouse for sale,1325000,5,5,43.7341104,-79.47620979999999
+"215 Fort York Blvd #1408, Toronto, ON M5V 4A2","C$679,900",1 bd1 ba- Condo for sale,679900,1,1,43.6366434,-79.4046054
+"256 Doris Ave #602, Toronto, ON M2N 6X8","C$649,900",2 bds2 ba- Condo for sale,649900,2,2,43.7716108,-79.41213719999999
+"7 Michael Power Pl #904, Toronto, ON M9A 0A4","C$498,000",1 bd1 ba- Condo for sale,498000,1,1,43.6445123,-79.52937969999999
+"193 Lynedock Cres, Toronto, ON M3A 2B3","C$899,900",4 bds2 ba- House for sale,899900,4,2,43.7623538,-79.32430889999999
+"12 Rutherford Ave, Toronto, ON M6M 2C6","C$899,999",2 bds3 ba- House for sale,899999,2,3,43.6903541,-79.4973505
+"57 Gaydon Ave, Toronto, ON M9M 1G6","C$889,000",2 bds2 ba- House for sale,889000,2,2,43.72100020000001,-79.5336069
+"51 Trolley Cres #516, Toronto, ON M5A 0E9","C$599,900",1 bd1 ba- Condo for sale,599900,1,1,43.6569809,-79.355378
+"18 Bexhill Ave, Toronto, ON M1L 3B4","C$775,900",2 bds2 ba- House for sale,775900,2,2,43.7007851,-79.28840559999999
+"101 Erskine Ave #1302, Toronto, ON M4P 0C5","C$784,900",2 bds2 ba- Condo for sale,784900,2,2,43.7115382,-79.39532299999999
+"142 Gradwell Dr, Toronto, ON M1M 2N2","C$1,800,000",4 bds4 ba- House for sale,1800000,4,4,43.7193322,-79.2377061
+"471 Brimorton Dr, Toronto, ON M1H 2E7","C$999,000",4 bds2 ba- House for sale,999000,4,2,43.7710646,-79.23468369999999
+"488 University Ave #2109, Toronto, ON M5G 0C1","C$759,900",1 bd1 ba- Condo for sale,759900,1,1,43.6550277,-79.3890703
+"40 Panorama Ct #709, Toronto, ON M9V 4M1","C$349,900",2 bds1 ba- Condo for sale,349900,2,1,43.7476922,-79.5797904
+"16 Muriel Ave, Toronto, ON M4J 2X9","C$1,098,000",4 bds1 ba- House for sale,1098000,4,1,43.6813054,-79.3451331
+"101 Peter St #3305, Toronto, ON M5V 0G6","C$499,000",1 bd1 ba- Condo for sale,499000,1,1,43.6476068,-79.3925708
+"115 Antibes Dr PENTHOUSE 5, Toronto, ON M2R 2Y9","C$598,000",2 bds2 ba- Condo for sale,598000,2,2,43.7795828,-79.44590079999999
+"3 Maple Bush Ave, Toronto, ON M9N 1S7","C$799,900",2 bds1 ba- House for sale,799900,2,1,43.71010829999999,-79.5354444
+"94 George Anderson Dr, Toronto, ON M6M 2Z2","C$2,050,000",5 bds7 ba- House for sale,2050000,5,7,43.7038788,-79.485275
+"48 Silvergrove Rd, Toronto, ON M2L 2N6","C$6,688,000",6 bds6 ba- House for sale,6688000,6,6,43.76384849999999,-79.37784409999999
+"386 Yonge St #2304, Toronto, ON M5B 0A5","C$949,000",2 bds2 ba- Condo for sale,949000,2,2,43.6596706,-79.3825726
+"7 Ferncroft Dr, Toronto, ON M1N 2X3","C$1,299,000",2 bds2 ba- House for sale,1299000,2,2,43.6854891,-79.2768461
+"1218 Islington Ave, Toronto, ON M8Z 4T1","C$1,295,000",2 bds2 ba- House for sale,1295000,2,2,43.643921,-79.5233818
+"3 Massey Sq #2606, Toronto, ON M4C 5L5","C$449,900",2 bds1 ba- Condo for sale,449900,2,1,43.696799,-79.2934126
+"101 Charles St E #710, Toronto, ON M4Y 0A9","C$909,000",2 bds2 ba- Condo for sale,909000,2,2,43.6696371,-79.3805424
+"209 Fort York Blvd S #956, Toronto, ON M5V 4A1","C$579,000",1 bd1 ba- Condo for sale,579000,1,1,43.6370745,-79.4046491
+"36 Lisgar St #1515E, Toronto, ON M6J 0C7","C$428,800",1 bd1 ba- Condo for sale,428800,1,1,43.6420208,-79.4233917
+"30 Herons Hill Way #2509, Toronto, ON M2J 0A7","C$599,900",2 bds2 ba838 sqft- Condo for sale,599900,2,2,43.7749383,-79.3352515
+"30 Herons Hill Way #2007, Toronto, ON M2J 0A7","C$659,000",2 bds2 ba- Condo for sale,659000,2,2,43.7749383,-79.3352515
+"222 Broadview Ave, Toronto, ON M4M 2G5","C$1,700,000",Studio3 ba- House for sale,1700000,3,3,43.66194309999999,-79.35144129999999
+"165 Legion Rd #1133, Toronto, ON M8Y 0B3","C$599,999",1 bd1 ba- Condo for sale,599999,1,1,43.6241214,-79.48801
+"38 Lee Centre Dr #702, Toronto, ON M1H 3J7","C$469,000",1 bd1 ba- Condo for sale,469000,1,1,43.7817588,-79.2466125
+"101 Farm Greenway #101, Toronto, ON M3A 3M1","C$799,900",3 bds3 ba- Townhouse for sale,799900,3,3,43.7660043,-79.31964110000001
+"207 Galloway Rd #1103, Toronto, ON M1E 4X3","C$399,000",3 bds2 ba- Condo for sale,399000,3,2,43.7667355,-79.19628
+"151 Village Green Sq #2103, Toronto, ON M1S 0K5","C$559,900",2 bds2 ba- Condo for sale,559900,2,2,43.7788438,-79.28132509999999
+"1430 A Yonge St #602, Toronto, ON M4T 1Y6","C$1,100,000",2 bds2 ba- Condo for sale,1100000,2,2,43.6871575,-79.39401699999999
+"20 Bruyeres Mews #2512, Toronto, ON M5V 0G8","C$990,000",2 bds2 ba- Condo for sale,990000,2,2,43.6375024,-79.4009141
+"568 Delaware Ave N, Toronto, ON M6H 2V2","C$1,499,900",5 bds5 ba- House for sale,1499900,5,5,43.6727105,-79.4329125
+"57 Saint Joseph St PENTHOUSE 4, Toronto, ON M5S 0C5","C$518,000",Studio1 ba- Condo for sale,518000,1,1,43.6654338,-79.38798380000001
+"20 Forest Manor Rd #604, Toronto, ON M2J 1M2","C$399,900",1 bd1 ba- Condo for sale,399900,1,1,43.7700557,-79.34425879999999
+"8855 Sheppard Ave E #128, Toronto, ON M1B 0E3","C$549,900",3 bds2 ba- Condo for sale,549900,3,2,43.8053764,-79.1830654
+"38 Joe Shuster Way #1113, Toronto, ON M6K 0A5","C$529,000",1 bd1 ba- Condo for sale,529000,1,1,43.6405301,-79.42450520000001
+"16 Simeon Ct, Toronto, ON M2K 2N7","C$2,188,000",5 bds4 ba- House for sale,2188000,5,4,43.7938036,-79.3895617
+"207 Galloway Rd #901, Toronto, ON M1E 4X3","C$399,000",2 bds1 ba- Condo for sale,399000,2,1,43.7667355,-79.19628
+"519 Glebeholme Blvd, Toronto, ON M4C 1V3","C$999,000",4 bds3 ba- House for sale,999000,4,3,43.6867692,-79.3192167
+"101 Charles St E, Toronto, ON M4Y 0A9","C$769,900",2 bds1 ba- Condo for sale,769900,2,1,43.6696371,-79.3805424
+"1563 Bathurst St, Toronto, ON M5P 3H8","C$3,880,000",6 bds4 ba- House for sale,3880000,6,4,43.6874219,-79.4197786
+"643 Sentinel Rd, Toronto, ON M3J 0B4","C$1,139,000",10 bds5 ba- House for sale,1139000,10,5,43.7676638,-79.5011084
+"650 Balliol St, Toronto, ON M4S 1E7","C$3,088,000",5 bds5 ba- House for sale,3088000,5,5,43.7014787,-79.3774691
+"403 Church St #2312, Toronto, ON M4Y 0C9","C$1,099,000",3 bds2 ba- Condo for sale,1099000,3,2,43.6622664,-79.3792077
+"213 Claremont St, Toronto, ON M6J 2N1","C$1,745,000",3 bds3 ba- Townhouse for sale,1745000,3,3,43.6519967,-79.41173529999999
+"350 Wellington St W #201, Toronto, ON M5V 3W9","C$698,000",1 bd1 ba- Condo for sale,698000,1,1,43.64462899999999,-79.39281570000001
+"7 Devonridge Cres, Toronto, ON M1C 5B1","C$1,699,999",5 bds5 ba- House for sale,1699999,5,5,43.7931635,-79.1682919
+"42 Croach Cres, Toronto, ON M1S 4J1","C$958,000",3 bds4 ba- Townhouse for sale,958000,3,4,43.8090073,-79.2595759
+"28 Linden St #3004, Toronto, ON M4Y 0A4","C$925,000",2 bds2 ba- Condo for sale,925000,2,2,43.6708289,-79.3768492
+"94 Radwell Cres, Toronto, ON M1V 2J5","C$799,000",3 bds3 ba- House for sale,799000,3,3,43.8197972,-79.2906843
+"52 Denvale Rd, Toronto, ON M4B 3B7","C$2,099,000",4 bds5 ba- House for sale,2099000,4,5,43.707184,-79.3187801
+"12 Bonnycastle St #207, Toronto, ON M5A 0C8","C$679,000",1 bd1 ba- Condo for sale,679000,1,1,43.6460368,-79.3649192
+"16 Bonnycastle St #1106, Toronto, ON M5A 0C9","C$679,000",1 bd1 ba- Condo for sale,679000,1,1,43.6460855,-79.3648886
+"43 Earnscliffe Rd, Toronto, ON M6E 1J4","C$805,000",3 bds1 ba- House for sale,805000,3,1,43.6830076,-79.4395881
+"20 Minowan Miikan Ln #701, Toronto, ON M6J 0E5","C$845,000",2 bds2 ba- Condo for sale,845000,2,2,43.6432774,-79.4282542
+"8 Lee Centre Dr UNIT 505, Toronto, ON M1H 3H8","C$470,000",1 bd1 ba- Condo for sale,470000,1,1,43.7809366,-79.2477127
+"77 Harbour Sq #2207, Toronto, ON M5J 2S2","C$1,124,990",2 bds2 ba- Condo for sale,1124990,2,2,43.6396638,-79.3792757
+"858 Palmerston Ave, Toronto, ON M6G 2S1","C$2,499,990",5 bds4 ba- House for sale,2499990,5,4,43.6714473,-79.41650489999999
+"20 Thomas Riley Rd #1502, Toronto, ON M9B 0C3","C$629,000",2 bds2 ba- Condo for sale,629000,2,2,43.634172,-79.5406824
+"79 Hedge End Rd, Toronto, ON M1B 5Z4","C$649,900",3 bds3 ba- Condo for sale,649900,3,3,43.8087902,-79.17192
+"159 Dundas St E #2109, Toronto, ON M5B 0A9","C$555,000",1 bd1 ba- Condo for sale,555000,1,1,43.6568285,-79.37501519999999
+"26 29th St #TOWNHOUSE, Toronto, ON M8W 3A8","C$899,900",3 bds2 ba- House for sale,899900,3,2,43.59688,-79.52906949999999
+"31 Bales Ave #1811, Toronto, ON M2N 7L6","C$699,000",2 bds2 ba- Condo for sale,699000,2,2,43.7601677,-79.4088938
+"234 Dunforest Ave, Toronto, ON M2N 4J9","C$3,880,000",5 bds7 ba- House for sale,3880000,5,7,43.7790433,-79.4000683
+"31 Bales Ave #1811, Toronto, ON M2N 7L6","C$699,000",2 bds2 ba- Condo for sale,699000,2,2,43.7601677,-79.4088938
+"26 29th St #TOWNHOUSE, Toronto, ON M8W 3A8","C$899,900",3 bds2 ba- House for sale,899900,3,2,43.59688,-79.52906949999999
+"58 Trott Sq, Toronto, ON M1B 1V8","C$739,000",3 bds3 ba- House for sale,739000,3,3,43.8121998,-79.2289127
+"100 Harbour St #2801, Toronto, ON M5J 0B5","C$689,900",1 bd1 ba- Condo for sale,689900,1,1,43.64177249999999,-79.37914599999999
+"98 Lynnhaven Rd, Toronto, ON M6A 2K9","C$1,999,998",3 bds2 ba- House for sale,1999998,3,2,43.7240447,-79.43983759999999
+"240 Roxton Rd, Toronto, ON M6G 3P9","C$2,499,000","3 bds4 ba3,300 sqft- House for sale",2499000,3,4,43.6550391,-79.4218784
+"1100 Lansdowne Ave #339, Toronto, ON M6H 4K1","C$1,629,000",2 bds4 ba- Condo for sale,1629000,2,4,43.6706438,-79.44841880000001
+"112 George St #S212, Toronto, ON M5A 2M5","C$679,900",1 bd1 ba- Condo for sale,679900,1,1,43.6520584,-79.37145749999999
+"4673 Jane St #318, Toronto, ON M3N 2L1","C$192,000",2 bds1 ba- Condo for sale,192000,2,1,43.770342,-79.5202032
+"5 Sousa Mendes St UNIT 602, Toronto, ON M6P 0A8","C$899,999",2 bds3 ba- Townhouse for sale,899999,2,3,43.6611072,-79.4524115
+"825 Church St #815, Toronto, ON M4W 3Z4","C$959,000",2 bds2 ba- Condo for sale,959000,2,2,43.6729415,-79.386777
+"668 Eglinton Ave E, Toronto, ON M4G 2K4","C$1,850,000",3 bds2 ba- House for sale,1850000,3,2,43.7121291,-79.3729836
+"189 Queen St E #3, Toronto, ON M5A 1S2","C$1,596,000",1 bd2 ba- Condo for sale,1596000,1,2,43.6539188,-79.371135
+"30 Meadowglen Pl #318, Toronto, ON M1G 0A6","C$449,900",1 bd1 ba- Condo for sale,449900,1,1,43.7746779,-79.2305336
+"72 Seminole Ave, Toronto, ON M1J 1N4","C$1,049,000",3 bds2 ba- House for sale,1049000,3,2,43.7474818,-79.24728309999999
+"77 Harbour Sq #3112, Toronto, ON M5J 2S2","C$1,495,000",2 bds2 ba- Condo for sale,1495000,2,2,43.6396638,-79.3792757
+"556 Palmerston Ave, Toronto, ON M6G 2P7","C$2,250,000",3 bds2 ba- House for sale,2250000,3,2,43.6649906,-79.41389939999999
+"3121 Sheppard Ave E #332, Toronto, ON M1T 0B6","C$574,999",2 bds2 ba- Condo for sale,574999,2,2,43.7762767,-79.3166028
+"554 Palmerston Ave, Toronto, ON M6G 2P7","C$1,975,000",3 bds2 ba- House for sale,1975000,3,2,43.6649409,-79.4139675
+"362 The East Mall #1802, Toronto, ON M9B 6C4","C$534,900",2 bds2 ba- Condo for sale,534900,2,2,43.6426012,-79.5588071
+"767 Cummer Ave, Toronto, ON M2H 1E8","C$1,299,900",4 bds4 ba- House for sale,1299900,4,4,43.7976531,-79.3784409
+"6 Eva Rd #310, Toronto, ON M9C 0B1","C$759,900",2 bds2 ba- Condo for sale,759900,2,2,43.6406065,-79.56235989999999
+"3500 Brimley Rd #20, Toronto, ON M1V 5K6","C$799,000",4 bds2 ba- Condo for sale,799000,4,2,43.8263465,-79.2875072
+"84 Morningview Trl, Toronto, ON M1B 5B1","C$1,098,800",5 bds4 ba- House for sale,1098800,5,4,43.8148702,-79.2014655
+"15 Yorkview Dr, Toronto, ON M2N 2R9","C$3,388,800",5 bds6 ba- House for sale,3388800,5,6,43.77498569999999,-79.4275973
+"3420 Eglinton Ave #505, Toronto, ON M1J 2H9","C$495,000",3 bds2 ba- Condo for sale,495000,3,2,43.7454751,-79.2122462
+"15 Aldershot Cres, Toronto, ON M2P 1L7","C$2,099,000",3 bds2 ba- House for sale,2099000,3,2,43.7539505,-79.40310579999999
+"274 Havelock St, Toronto, ON M6H 3B9","C$1,498,000",6 bds3 ba- House for sale,1498000,6,3,43.6601126,-79.4324997
+"19 Duxbury Dr, Toronto, ON M1V 5H1","C$998,000",6 bds4 ba- House for sale,998000,6,4,43.82432319999999,-79.2952291
+"10 Glenroy Ave, Toronto, ON M8Y 2M1","C$2,298,000",3 bds4 ba- House for sale,2298000,3,4,43.6435862,-79.5044343
+"7 Cornelius Pkwy, Toronto, ON M6L 2K2","C$1,299,900",4 bds2 ba- House for sale,1299900,4,2,43.7138718,-79.4786692
+"32 Gardiner Rd, Toronto, ON M5P 3B5","C$3,100,000",4 bds4 ba- House for sale,3100000,4,4,43.701614,-79.4199466
+"154 Winston Park Blvd, Toronto, ON M3K 1C5","C$749,000",3 bds2 ba- House for sale,749000,3,2,43.72715160000001,-79.47133099999999
+"4 Conland Ave, Toronto, ON M6A 2R9","C$2,088,888","4 bds4 ba2,480 sqft- House for sale",2088888,4,4,43.71691,-79.4532528
+"38 Dan Leckie Way #707, Toronto, ON M5V 2V6","C$849,900",2 bds2 ba899 sqft- Condo for sale,849900,2,2,43.6374607,-79.39792589999999
+"50 Ordnance St #1984, Toronto, ON M6K 0C9","C$549,800",1 bd1 ba551 sqft- New construction,549800,1,1,43.6396558,-79.40990540000001
+"141 Coxwell Ave, Toronto, ON M4L 3B4","C$1,100,000","3 bds2 ba1,550 sqft- House for sale",1100000,3,2,43.670365,-79.3179816
+"24 Noble St #108, Toronto, ON M6K 2C8","C$689,000",1 bd1 ba725 sqft- Condo for sale,689000,1,1,43.6428905,-79.4305289
+"382 Brooke Ave, Toronto, ON M5M 2L6","C$2,000,000","4 bds2 ba1,400 sqft- House for sale",2000000,4,2,43.73114899999999,-79.430016

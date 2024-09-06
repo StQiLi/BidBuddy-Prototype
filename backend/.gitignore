@@ -1,0 +1,6 @@
+# Ignore the cleaned property data and original CSV files
+property_data_cleaned.csv
+property_data.csv
+
+# Ignore environment variable files
+.env
