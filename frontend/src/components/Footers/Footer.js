@@ -31,6 +31,14 @@ export default function Footer() {
               <div className="mt-6 lg:mb-0 mb-6 flex space-x-4">
                 
                 <a
+                  href="mailto:https://sqli@uwaterloo.ca" 
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="bg-white text-blueGray-800 shadow-lg font-normal h-10 w-10 flex items-center justify-center rounded-full outline-none focus:outline-none mr-2"
+                >
+                  <i className="fas fa-envelope"></i>
+                </a>
+                <a
                   href="https://github.com/stqili" 
                   target="_blank"
                   rel="noopener noreferrer"

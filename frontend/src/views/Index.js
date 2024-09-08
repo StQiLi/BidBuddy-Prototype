@@ -5,6 +5,9 @@ import { Link } from "react-router-dom";
 import IndexNavbar from "components/Navbars/IndexNavbar.js";
 import Footer from "components/Footers/Footer.js";
 
+import heroimage from "../assets/img/hero_image.png";
+
+
 export default function Index() {
   return (
     <>
@@ -13,45 +16,31 @@ export default function Index() {
         <div className="container mx-auto items-center flex flex-wrap">
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
             <div className="pt-32 sm:pt-0">
-              <h2 className="font-semibold text-4xl text-blueGray-600">
-                Notus React - A beautiful extension for Tailwind CSS.
-              </h2>
-              <p className="mt-4 text-lg leading-relaxed text-blueGray-500">
-                Notus React is Free and Open Source. It does not change any of
-                the CSS from{" "}
-                <a
-                  href="https://tailwindcss.com/?ref=creativetim"
-                  className="text-blueGray-600"
-                  target="_blank"
-                >
-                  Tailwind CSS
-                </a>
-                . It features multiple HTML elements and it comes with dynamic
-                components for ReactJS, Vue and Angular.
+              <h1 className="font-semibold text-5xl text-blueGray-600">
+                BidBuddy:
+                Housing Bids Made Easy.
+              </h1>
+              <p className="mt-4 text-xl leading-relaxed text-blueGray-500">
+                Powered by machine learning to generate accurate bids for your new home, so you can focus on the things that really matter.
+
               </p>
               <div className="mt-12">
                 <a
                   href="https://www.creative-tim.com/learning-lab/tailwind/react/overview/notus?ref=nr-index"
                   target="_blank"
-                  className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
+                  className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-emerald-400 active:bg-lightBlue-600 uppercase text-sm shadow hover:bg-emerald-00 hover:shadow-lg ease-linear transition-all duration-150"
                 >
-                  Get started
+                  Try it Now
                 </a>
-                <a
-                  href="https://github.com/creativetimofficial/notus-react?ref=nr-index"
-                  className="github-star ml-1 text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-blueGray-700 active:bg-blueGray-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-                  target="_blank"
-                >
-                  Github Star
-                </a>
+                
               </div>
             </div>
           </div>
         </div>
 
         <img
-          className="absolute top-0 b-auto right-0 pt-16 sm:w-6/12 -mt-48 sm:mt-0 w-10/12 max-h-860px"
-          src={require("assets/img/pattern_react.png").default}
+          className="absolute top-1/2 transform -translate-y-1/2 b-auto right-0 pt-16 sm:w-6/12 mr-4 -mt-48 sm:mt-0 w-10/12 max-h-860px hidden lg:block"
+          src={heroimage}
           alt="..."
         />
       </section>
@@ -639,13 +628,6 @@ export default function Index() {
                 I'm highly interested in all things machine learning/AI and software development related, and currated this prototype as a continuation of my summer project experience.
               </p>
               <div className="sm:block flex flex-col mt-10">
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/react/overview/notus?ref=nr-index"
-                  target="_blank"
-                  className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-2 bg-lightBlue-500 active:bg-lightBlue-600 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-150"
-                >
-                  Get started
-                </a>
                 <a
                   href="https://github.com/StQiLi/BidBuddy-Prototype"
                   target="_blank"
