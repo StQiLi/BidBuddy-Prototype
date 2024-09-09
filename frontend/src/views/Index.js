@@ -4,14 +4,14 @@ import { Link } from "react-router-dom";
 
 import IndexNavbar from "components/Navbars/IndexNavbar.js";
 import Footer from "components/Footers/Footer.js";
-
 import heroimage from "../assets/img/hero_image.png";
+import NavigateButton from "components/NavigateButton";
 
 
 export default function Index() {
   return (
     <>
-      <IndexNavbar fixed />
+      <IndexNavbar />
       <section className="header relative pt-16 items-center flex h-screen max-h-860-px">
         <div className="container mx-auto items-center flex flex-wrap">
           <div className="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">
@@ -19,21 +19,13 @@ export default function Index() {
               <h1 className="font-semibold text-5xl text-blueGray-600">
                 BidBuddy:
                 Housing Bids Made Easy.
+                
               </h1>
               <p className="mt-4 text-xl leading-relaxed text-blueGray-500">
                 Powered by machine learning to generate accurate bids for your new home, so you can focus on the things that really matter.
 
               </p>
-              <div className="mt-12">
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/react/overview/notus?ref=nr-index"
-                  target="_blank"
-                  className="get-started text-white font-bold px-6 py-4 rounded outline-none focus:outline-none mr-1 mb-1 bg-emerald-400 active:bg-lightBlue-600 uppercase text-sm shadow hover:bg-emerald-00 hover:shadow-lg ease-linear transition-all duration-150"
-                >
-                  Try it Now
-                </a>
-                
-              </div>
+              <NavigateButton />
             </div>
           </div>
         </div>

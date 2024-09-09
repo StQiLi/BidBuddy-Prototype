@@ -1,8 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-// components
 
+// components
+import PredictionButton from "components/button";
 import Navbar from "components/Navbars/AuthNavbar.js";
 import Footer from "components/Footers/Footer.js";
 
@@ -30,6 +31,7 @@ export default function Landing() {
                 <div className="pr-12">
                   <h1 className="text-white font-semibold text-5xl">
                     Your story starts with us.
+                    <PredictionButton />
                   </h1>
                   <p className="mt-4 text-lg text-blueGray-200">
                     This is a simple example of a Landing Page you can build
